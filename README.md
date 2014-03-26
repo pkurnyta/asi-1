@@ -11,7 +11,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit), [#1](http://mygistsmbednarczyk.herokuapp.com/ ).
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
-1. Buda, Marta.
+1. [Buda, Marta](https://github.com/mbuda/reviewIt), [#3](http://books-review.herokuapp.com/).
 1. Chraniuk, Mateusz.
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists), [#1](http://jcimoch-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp), [#1](http://kczechowicz-gists.herokuapp.com/).
