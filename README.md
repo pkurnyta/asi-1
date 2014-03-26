@@ -39,7 +39,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists), [#1](http://mygistsmlipowski.herokuapp.com/).
 1. Litke, Sabina.
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries), [#1](http://mybeanaries.herokuapp.com/).
-1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_books_rework)[#3]
+1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework)[#1]
 1. Mańkowska, Monika.
 1. Marciniak, Paulina.
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty), [#1](http://smasztarowskigists.herokuapp.com/).
