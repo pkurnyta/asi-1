@@ -45,7 +45,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1](http://smasztarowskigists.herokuapp.com).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists). [#1](http://mmgists.heroku.com).
 1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [#1](http://djangoisbetterthanrails.herokuapp.com).
-1. Nowicki, Jakub.
+1. [Nowicki, Jakub] (https://github.com/jnowicki/rails-myGists). [#1](http://just-some-gists.herokuapp.com).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby)
 1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [#1](http://mossowski-gists.herokuapp.com).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [#1](http://notateczki.herokuapp.com).
