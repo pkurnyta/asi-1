@@ -10,7 +10,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [#1](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [#1](http://mygistsmbednarczyk.herokuapp.com).
 1. Bigda, Piotr.
-1. Borkowski, Maciej.
+1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [#1](http://mygistsmborkowski.herokuapp.com).
 1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3](http://books-review.herokuapp.com).
 1. Chraniuk, Mateusz.
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1](http://jcimoch-gists.herokuapp.com).
