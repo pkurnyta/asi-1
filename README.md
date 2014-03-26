@@ -31,7 +31,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Korszuń, Kacper.
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2), [#1](http://my-gists.herokuapp.com/ ).
 1. Kurnyta, Przemysław.
-1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1), [#1](http://agisty.herokuapp.com/gists).
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1), [#1](http://agisty123.herokuapp.com/gists).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists), [#1](http://damlab.herokuapp.com/).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist), [#1](http://mojegisty.herokuapp.com/).
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes), [#2](http://mlesniak.herokuapp.com/).
