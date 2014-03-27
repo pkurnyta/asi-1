@@ -37,7 +37,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [#1](http://szykom-my-gists.herokuapp.com).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [#1](http://my-gists.herokuapp.com).
-1. Kurnyta, Przemysław.
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/ASI.git).
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [#1AA](http://agisty123.herokuapp.com/gists).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [#1CB](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [#1AB](http://mojegisty.herokuapp.com).
