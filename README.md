@@ -63,7 +63,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 1. Stasiak, Sebastian.
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
-1. Synowczyk, Piotr.
+1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [#1](http://psgists.herokuapp.com/).
 1. Szklarska, Milena.
 1. Szynkaruk, Kamil.
 1. Wittbrodt, Łukasz.
