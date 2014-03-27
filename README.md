@@ -17,10 +17,10 @@ dodać sporo sensownych przykładowych rekordów
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [#1AA](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [#1](http://mygistsmbednarczyk.herokuapp.com).
 1. Bigda, Piotr.
-1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [#1](http://mygistsmborkowski.herokuapp.com).
-1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3](http://books-review.herokuapp.com).
+1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [#1AA](http://mygistsmborkowski.herokuapp.com).
+1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3BC](http://books-review.herokuapp.com).
 1. Chraniuk, Mateusz.
-1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1](http://jcimoch-gists.herokuapp.com).
+1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1CB](http://jcimoch-gists.herokuapp.com).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [#1AA].
 1. Dargacz, Mateusz.
@@ -39,14 +39,14 @@ dodać sporo sensownych przykładowych rekordów
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [#1](http://my-gists.herokuapp.com).
 1. Kurnyta, Przemysław.
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [#1AA](http://agisty123.herokuapp.com/gists).
-1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [#1](http://damlab.herokuapp.com).
-1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [#1](http://mojegisty.herokuapp.com).
-1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [#2](http://mlesniak.herokuapp.com/notes).
+1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [#1CB](http://damlab.herokuapp.com).
+1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [#1AB](http://mojegisty.herokuapp.com).
+1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [#2AC](http://mlesniak.herokuapp.com/notes).
 1. Leyk, Szymon.
-1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [#1](http://mygistsmlipowski.herokuapp.com).
+1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [#1AB](http://mygistsmlipowski.herokuapp.com).
 1. Litke, Sabina.
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [#1](http://mybeanaries.herokuapp.com).
-1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework).
+1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [#1AA].
 1. Mańkowska, Monika.
 1. Marciniak, Paulina.
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
@@ -59,7 +59,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [#3](http://pelen.herokuapp.com).
 1. Piotrkowski, Łukasz.
 1. Plenis, Jakub.
-1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3](http://ziomski.herokuapp.com).
+1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3CB](http://ziomski.herokuapp.com).
 1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [#1CB](http://mygistsszymonrekawek.herokuapp.com).
 1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists).
 1. Sielachowicz, Paweł.
