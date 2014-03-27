@@ -35,7 +35,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [#1BA](http://jankkolgists.herokuapp.com/gists).
 1. Kołek, Maciej.
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [#1](http://szykom-my-gists.herokuapp.com).
-1. Korszuń, Kacper.
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [#1](http://my-gists.herokuapp.com).
 1. Kurnyta, Przemysław.
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [#1AA](http://agisty123.herokuapp.com/gists).
@@ -51,6 +51,7 @@ dodać sporo sensownych przykładowych rekordów
 1. Marciniak, Paulina.
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists). [#1](http://mmgists.heroku.com).
+1. [Napiórkowski, Sebastian](https://github.com/sebnapi/asi). [#1](https://github.com/sebnapi/asi).
 1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [#1](http://djangoisbetterthanrails.herokuapp.com).
 1. [Nowicki, Jakub] (https://github.com/jnowicki/rails-myGists). [#1](http://just-some-gists.herokuapp.com).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby)
@@ -71,7 +72,7 @@ dodać sporo sensownych przykładowych rekordów
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [#1DB](http://psgists.herokuapp.com/).
-1. Szklarska, Milena.
+1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [#1](http://mygistsapp.herokuapp.com/)
 1. Szynkaruk, Kamil.
 1. Wittbrodt, Łukasz.
 2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://horoku-test-todo-list-app.herokuapp.com).
