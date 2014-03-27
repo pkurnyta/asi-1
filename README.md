@@ -44,7 +44,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [#2AC](http://mlesniak.herokuapp.com/notes).
 1. Leyk, Szymon.
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [#1AB](http://mygistsmlipowski.herokuapp.com).
-1. Litke, Sabina.
+1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [#1](http://mybeanaries.herokuapp.com).
 1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [#1AA].
 1. Mańkowska, Monika.
