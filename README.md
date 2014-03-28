@@ -48,7 +48,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [#1](http://mybeanaries.herokuapp.com).
 1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [#1AA].
 1. Mańkowska, Monika.
-1. Marciniak, Paulina.
+1. [Marciniak, Paulina](https://github.com/MPaulina/my_gist).
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists). [#1](http://mmgists.heroku.com).
 1. [Napiórkowski, Sebastian](https://github.com/sebnapi/asi). [#1](https://github.com/sebnapi/asi).
