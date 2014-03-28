@@ -4,12 +4,21 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
 
-**Uwagi:** 1. usunąć śmieci z repozytoriów, 2.
-poprawić routing (strona główna aplikacji), 3. responsive CSS, 4.
-dodać sporo sensownych przykładowych rekordów
+Podstawowe funkcjonalności, które należy zaimplementować:
 
-\#1: zmienić widok strony *index*, dodać wyszukiwanie, paginacja -- infinite scrolling
+1. Strony aplikacji powinny być responsywne.
+Co to oznacza, w wypadku Bootstrapa jest opisane w sekcji
+[Mobile first](http://getbootstrap.com/css/#overview-mobile).
+W szczególności należy dopracować stronę główna aplikacji.
+2. Każda z przykładowych aplikacji musi mieć zaimplementowane:
+  - wyszukiwanie
+  - paginację – infinite scrolling
+3. Do aplikacji wdrożonej na Heroku należy dodać sporo
+sensownych przykładowych rekordów. W tym celu należy użyć
+pliku *db/seeds.rb*.
 
+*Uwaga:* W repozytoriach nie powinno być *śmieci*, np.
+plików *backup* edytora.
 
 
 ### Wasze projekty
