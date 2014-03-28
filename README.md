@@ -59,7 +59,7 @@ dodać sporo sensownych przykładowych rekordów
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [#1](http://notateczki.herokuapp.com).
 1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [#3](http://pelen.herokuapp.com).
 1. Piotrkowski, Łukasz.
-1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1).[#1](http://mojezadania.herokuapp.com).
+1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [#1](http://mojezadania.herokuapp.com).
 1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3CB](http://ziomski.herokuapp.com).
 1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [#1CB](http://mygistsszymonrekawek.herokuapp.com).
 1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists).
