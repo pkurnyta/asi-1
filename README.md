@@ -33,7 +33,7 @@ plików *backup* edytora.
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [#1AA](http://mygistsmborkowski.herokuapp.com).
 1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3BC](http://books-review.herokuapp.com).
 1. Chraniuk, Mateusz.
-1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1CB](http://jcimoch-gists.herokuapp.com).
+1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1CB](http://jcimoch-my-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [#1AA].
 1. Dargacz, Mateusz.
