@@ -94,3 +94,9 @@ plików *backup* edytora.
 1. Żelazek, Mateusz.
 1. Żuchowski, Sebastian
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
+
+
+## Użyteczne linki
+
+* TJ VanToll.
+  [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/)
