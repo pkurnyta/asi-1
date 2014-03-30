@@ -2,6 +2,10 @@
 
 Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architektura Serwisów Internetowych”.
 
+![Archimedes Raven](images/archimedes.gif)
+
+*Autorem zdjęcia jest Alex Balcázar*
+
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
 
 Podstawowe funkcjonalności, które należy zaimplementować:
