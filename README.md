@@ -84,7 +84,7 @@ plików *backup* edytora.
 1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [#1BA](http://mygistsapp.herokuapp.com/)
 1. Szynkaruk, Kamil.
 1. Wittbrodt, Łukasz.
-2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://horoku-test-todo-list-app.herokuapp.com).
+2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [#1](http://dzawadzki-app.herokuapp.com).
 1. Zbierowski, Maciej.
 1. Żelazek, Mateusz.
