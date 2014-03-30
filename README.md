@@ -4,7 +4,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 
 ![Archimedes Raven](images/archimedes.gif)
 
-*Autorem zdjęcia jest Alex Balcázar*
+*Autorem zdjęcia jest Alex Balcázar.*
 
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
 
