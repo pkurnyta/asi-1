@@ -51,7 +51,7 @@ dodać sporo sensownych przykładowych rekordów
 1. Marciniak, Paulina.
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists). [#1](http://mmgists.heroku.com).
-1. [Napiórkowski, Sebastian](https://github.com/sebnapi/asi). [#1](https://github.com/sebnapi/asi).
+1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [#4](http://my-yachts.herokuapp.com/yachts).
 1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [#1](http://djangoisbetterthanrails.herokuapp.com).
 1. [Nowicki, Jakub] (https://github.com/jnowicki/rails-myGists). [#1](http://just-some-gists.herokuapp.com).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby)
