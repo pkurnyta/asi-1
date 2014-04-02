@@ -37,7 +37,7 @@ plików *backup* edytora.
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [#1AA].
 1. Dargacz, Mateusz.
-1. Dąbrowski, Arkadiusz.
+1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [#1](http://kolejnedziadostwo.herokuapp.com/).
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [#1CB](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [#1](http://janusygists.herokuapp.com).
