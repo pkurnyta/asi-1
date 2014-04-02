@@ -75,7 +75,7 @@ plików *backup* edytora.
 1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [#1AA](http://mojezadania.herokuapp.com).
 1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3CB](http://ziomski.herokuapp.com).
 1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [#1CB](http://mygistsszymonrekawek.herokuapp.com).
-1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists).
+1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [#1](http://fast-beach-4233.herokuapp.com/gists).
 1. Sielachowicz, Paweł.
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [#3CB](http://asisecond.herokuapp.com).
 1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [#3](http://jsvideos.herokuapp.com).
