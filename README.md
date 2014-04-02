@@ -39,7 +39,7 @@ plików *backup* edytora.
 1. Dargacz, Mateusz.
 1. Dąbrowski, Arkadiusz.
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [#1CB](http://evening-everglades-2118.herokuapp.com).
-1. Gąsior, Łukasz.
+1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [#1](http://janusygists.herokuapp.com).
 1. [Jaworowski, Michał](https://github.com/kropeq/my_gists3). [#1](http://jaworowski.herokuapp.com).
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [#1](http://snippeter-app.herokuapp.com).
