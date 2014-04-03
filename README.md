@@ -25,6 +25,21 @@ pliku *db/seeds.rb*.
 plików *backup* edytora.
 
 
+### Testowanie aplikacji z RSpec
+
+Dokumentacja:
+
+- https://www.relishapp.com/rspec/rspec-core/v/3-0/docs
+- https://www.relishapp.com/rspec/rspec-expectations/v/3-0/docs
+- https://www.relishapp.com/rspec/rspec-mocks/v/3-0/docs
+
+Tutoriale:
+
+* [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
+(Unit Testing)
+* [A Guide to Testing Rails Applications](http://guides.rubyonrails.org/testing.html)
+
+
 ### Wasze projekty
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [#1AA](http://mygists-pa.herokuapp.com).
