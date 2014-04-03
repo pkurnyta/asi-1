@@ -45,7 +45,7 @@ Unit Testing
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [#1AA](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [#1CC](http://mygistsmbednarczyk.herokuapp.com).
-1. Bigda, Piotr.
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/ruby). (http://nowyprojekt123.herokuapp.com).
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [#1AA](http://mygistsmborkowski.herokuapp.com).
 1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3BC](http://books-review.herokuapp.com).
 1. Chraniuk, Mateusz.
