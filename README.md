@@ -29,9 +29,10 @@ plików *backup* edytora.
 
 Dokumentacja:
 
-- https://www.relishapp.com/rspec/rspec-core/v/3-0/docs
-- https://www.relishapp.com/rspec/rspec-expectations/v/3-0/docs
-- https://www.relishapp.com/rspec/rspec-mocks/v/3-0/docs
+- [rspec-core](https://github.com/rspec/rspec-core)
+- [rspec-expectations](https://github.com/rspec/rspec-expectations)
+- [rspec-mocks](https://github.com/rspec/rspec-mocks)
+- [rspec-rails](https://github.com/rspec/rspec-rails)
 
 Tutoriale:
 
