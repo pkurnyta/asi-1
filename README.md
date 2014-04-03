@@ -57,7 +57,7 @@ Unit Testing
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [#1CB](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [#1](http://janusygists.herokuapp.com).
-1. [Jaworowski, Michał](https://github.com/kropeq/my_gists3). [#1](http://jaworowski.herokuapp.com).
+1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [#1](http://jaworgists.herokuapp.com).
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [#1](http://snippeter-app.herokuapp.com).
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [#1CC](http://gistmaster.herokuapp.com).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [#1](http://mygists-jkarolczak.herokuapp.com).
