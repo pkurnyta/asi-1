@@ -27,7 +27,7 @@ plików *backup* edytora.
 
 ### Testowanie aplikacji z RSpec
 
-Dokumentacja:
+[Dokumentacja](http://rspec.info/):
 
 - [rspec-core](https://github.com/rspec/rspec-core)
 - [rspec-expectations](https://github.com/rspec/rspec-expectations)
