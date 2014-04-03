@@ -36,7 +36,7 @@ Dokumentacja:
 Tutoriale:
 
 * [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
-(Unit Testing)
+Unit Testing
 * [A Guide to Testing Rails Applications](http://guides.rubyonrails.org/testing.html)
 
 
