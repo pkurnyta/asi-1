@@ -102,7 +102,7 @@ Unit Testing
 1. Sulich, Bartłomiej.
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [#1DB](http://psgists.herokuapp.com/).
 1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [#1BA](http://mygistsapp.herokuapp.com/)
-1. Szynkaruk, Kamil.
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1]
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists), [#1](http://lrails.herokuapp.com/).
 2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [#1](http://dzawadzki-app.herokuapp.com).
