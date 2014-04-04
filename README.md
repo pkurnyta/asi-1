@@ -29,13 +29,13 @@ Unit Testing
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/ruby). [C#1](http://nowyprojekt123.herokuapp.com).
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [E#1](http://mygistsmborkowski.herokuapp.com).
+1. [Buda, Marta](https://github.com/mbuda/reviewIt). [E#3](http://books-review.herokuapp.com).
+1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [D#1](http://jcimoch-my-gists.herokuapp.com/).
+1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [E#1](http://kczechowicz-gists.herokuapp.com).
+1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [E#1](http://gistmys.herokuapp.com/).
 
 #### TODO
 
-1. [Buda, Marta](https://github.com/mbuda/reviewIt). [#3BC](http://books-review.herokuapp.com).
-1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [#1CB](http://jcimoch-my-gists.herokuapp.com/).
-1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [#1](http://kczechowicz-gists.herokuapp.com).
-1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [#1AA](http://gistmys.herokuapp.com/).
 1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [#1](http://kolejnedziadostwo.herokuapp.com/).
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [#1CB](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [#1](http://lgasior-gists.herokuapp.com/).
