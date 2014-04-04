@@ -4,7 +4,7 @@ Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architekt
 
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
 
-Podstawowe funkcjonalności, które należy zaimplementować:
+Oceny: A1, B2, C3, D4, E5.
 
 
 ### Testowanie aplikacji z RSpec
@@ -33,13 +33,14 @@ Unit Testing
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [D#1](http://jcimoch-my-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [E#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [E#1](http://gistmys.herokuapp.com/).
+1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [D#1](http://kolejnedziadostwo.herokuapp.com/).
+1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [D+#1](http://evening-everglades-2118.herokuapp.com).
+1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
+1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [D#1](http://janusygists.herokuapp.com).
+
 
 #### TODO
 
-1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [#1](http://kolejnedziadostwo.herokuapp.com/).
-1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [#1CB](http://evening-everglades-2118.herokuapp.com).
-1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [#1](http://lgasior-gists.herokuapp.com/).
-1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [#1](http://janusygists.herokuapp.com).
 1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [#1](http://jaworgists.herokuapp.com).
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [#1](http://snippeter-app.herokuapp.com).
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [#1CC](http://gistmaster.herokuapp.com).
@@ -110,6 +111,8 @@ Unit Testing
 
 
 ## Kilka uwag
+
+Podstawowe funkcjonalności, które należy zaimplementować:
 
 1. Strony aplikacji powinny być responsywne.
 Co to oznacza, w wypadku Bootstrapa jest opisane w sekcji
