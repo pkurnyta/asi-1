@@ -106,7 +106,7 @@ Unit Testing
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists), [#1](http://lrails.herokuapp.com/).
 2. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [#1](http://dzawadzki-app.herokuapp.com).
-1. Zbierowski, Maciej.
+1. Zbierowski, Maciej(https://github.com/Macio1992/myBooks). [#2](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
 1. Żuchowski, Sebastian
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
