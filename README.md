@@ -111,6 +111,7 @@ Unit Testing
 1. Żuchowski, Sebastian
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
 
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI), [#4](http://vanfisk.herokuapp.com)
 
 ## Użyteczne linki
 
