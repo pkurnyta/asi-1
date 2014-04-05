@@ -37,6 +37,7 @@ Unit Testing
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [D+#1](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [D#1](http://janusygists.herokuapp.com).
+1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
@@ -108,7 +109,6 @@ Unit Testing
 1. Sulich, Bartłomiej.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
 1. Żelazek, Mateusz.
-1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [#1](http://maniana.herokuapp.com//).
 
 
 ## Użyteczne linki
