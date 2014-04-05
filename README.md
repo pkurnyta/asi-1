@@ -111,7 +111,6 @@ Unit Testing
 1. [Żuchowski, Sebastian] (https://github.com/modziek/project_ruby),[#1] (http://maniana.herokuapp.com//).
 
 
-
 ## Użyteczne linki
 
 * TJ VanToll.
@@ -120,4 +119,19 @@ Unit Testing
 
 ## Kilka uwag
 
-Podstawowe funkcjonalno
+Podstawowe funkcjonalności, które należy zaimplementować:
+
+1. Strony aplikacji powinny być responsywne.
+Co to oznacza, w wypadku Bootstrapa jest opisane w sekcji
+[Mobile first](http://getbootstrap.com/css/#overview-mobile).
+W szczególności należy dopracować stronę główna aplikacji.
+
+2. Każda z przykładowych aplikacji musi mieć zaimplementowane:
+wyszukiwanie i paginację (z infinite scrolling).
+
+3. Do aplikacji wdrożonej na Heroku należy dodać sporo
+sensownych przykładowych rekordów. W tym celu należy użyć
+pliku *db/seeds.rb*.
+
+*Uwaga:* W repozytoriach nie powinno być *śmieci*, np.
+plików *backup* edytora.
