@@ -97,7 +97,7 @@ Unit Testing
   (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
 1. Chraniuk, Mateusz.
-1. Dargacz, Mateusz.
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists), [#1] (http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Kurnyta, Przemysław.
 1. Leyk, Szymon.
