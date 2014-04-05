@@ -88,6 +88,14 @@ Unit Testing
 
 ### ???
 
+* [List of data APIs](https://gist.github.com/afeld/4952991) – none of them
+  requires server-side auth or private credentials, and are thus good
+  for small browser-only JS projects.
+* [MyMovies](https://github.com/rails4/my_movies) – an example app that uses
+  the Movie Database API.
+* [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
+  (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
+
 1. Chraniuk, Mateusz.
 1. Dargacz, Mateusz.
 1. Kołek, Maciej.
