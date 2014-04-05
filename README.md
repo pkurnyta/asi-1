@@ -108,7 +108,7 @@ Unit Testing
 1. Sulich, Bartłomiej.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
 1. Żelazek, Mateusz.
-1. [Żuchowski, Sebastian] (https://github.com/modziek/project_ruby),[#1] (http://maniana.herokuapp.com//).
+1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [#1](http://maniana.herokuapp.com//).
 
 
 ## Użyteczne linki
