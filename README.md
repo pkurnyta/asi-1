@@ -101,7 +101,7 @@ Unit Testing
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists), [#1] (http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Kurnyta, Przemysław.
-1. Leyk, Szymon.
+1. [Leyk, Szymon](https://github.com/leyas/rails-app). [#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
 1. Stasiak, Sebastian.
