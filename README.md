@@ -43,8 +43,6 @@ Unit Testing
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [C+#1](http://mygists-jkarolczak.herokuapp.com).
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [C#1](http://jankkolgists.herokuapp.com).
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
-
-
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
