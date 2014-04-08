@@ -28,11 +28,11 @@ Unit Testing
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [C#1](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/ruby). [C#1](http://nowyprojekt123.herokuapp.com).
-1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [E#1](http://mygistsmborkowski.herokuapp.com).
+1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [D#1](http://mygistsmborkowski.herokuapp.com).
 1. [Buda, Marta](https://github.com/mbuda/reviewIt). [E#3](http://books-review.herokuapp.com).
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [D#1](http://jcimoch-my-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [E#1](http://kczechowicz-gists.herokuapp.com).
-1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [E#1](http://gistmys.herokuapp.com/).
+1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [D#1](http://gistmys.herokuapp.com/).
 1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [D#1](http://kolejnedziadostwo.herokuapp.com/).
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [D+#1](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
@@ -87,25 +87,27 @@ Unit Testing
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
 
 
-### ???
+### Testowanie API za pomocą RSpec
 
 * [List of data APIs](https://gist.github.com/afeld/4952991) – none of them
   requires server-side auth or private credentials, and are thus good
   for small browser-only JS projects.
 * [MyMovies](https://github.com/rails4/my_movies) – an example app that uses
   the Movie Database API.
-* [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
-  (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
+
+Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z tej listy –
+[List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
+(forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
 1. Chraniuk, Mateusz.
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists), [B#1](http://asi-mdargacz.herokuapp.com/).
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [B#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Kurnyta, Przemysław.
 1. Leyk, Szymon.
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
 1. Stasiak, Sebastian.
-1. Stenka, Dominik. [#1AA].
+1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
 1. Żelazek, Mateusz.
