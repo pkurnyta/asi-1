@@ -38,17 +38,17 @@ Unit Testing
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [D#1](http://janusygists.herokuapp.com).
 1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [C+#1](http://jaworgists.herokuapp.com).
-1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [A#1](http://snippeter-app.herokuapp.com).
-1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [A#1](http://gistmaster.herokuapp.com).
+1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [E#1](http://snippeter-app.herokuapp.com).
+1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [E#1](http://gistmaster.herokuapp.com).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [C+#1](http://mygists-jkarolczak.herokuapp.com).
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [C#1](http://jankkolgists.herokuapp.com).
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject). [C#1](http://stark-beyond-9781.herokuapp.com).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [C#1](http://my-gists.herokuapp.com).
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [C+#1](http://agisty123.herokuapp.com).
-1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [A#1](http://damlab.herokuapp.com).
+1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [E#1](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [C#1](http://mojegisty.herokuapp.com).
-1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [A#3](http://mlesniak.herokuapp.com/notes).
+1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [E#3](http://mlesniak.herokuapp.com/notes).
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
 1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
@@ -98,7 +98,7 @@ Unit Testing
   (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
 1. Chraniuk, Mateusz.
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists), [#1] (http://asi-mdargacz.herokuapp.com/).
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists), [B#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Kurnyta, Przemysław.
 1. Leyk, Szymon.
