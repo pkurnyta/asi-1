@@ -39,15 +39,18 @@ Unit Testing
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [D#1](http://janusygists.herokuapp.com).
 1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [C+#1](http://jaworgists.herokuapp.com).
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [A#1](http://snippeter-app.herokuapp.com).
+1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [A#1](http://gistmaster.herokuapp.com).
+1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [C+#1](http://mygists-jkarolczak.herokuapp.com).
+1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [C#1](http://jankkolgists.herokuapp.com).
+1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
+
+
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [#1CC](http://gistmaster.herokuapp.com).
-1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [#1](http://mygists-jkarolczak.herokuapp.com).
-1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [#1BA](http://jankkolgists.herokuapp.com).
-1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [#1](http://szykom-my-gists.herokuapp.com).
+
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject). [#1](http://stark-beyond-9781.herokuapp.com).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [#1CB](http://my-gists.herokuapp.com).
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [#1AA](http://agisty123.herokuapp.com).
