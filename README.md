@@ -48,16 +48,15 @@ Unit Testing
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [C+#1](http://agisty123.herokuapp.com).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [A#1](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [C#1](http://mojegisty.herokuapp.com).
+1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [A#3](http://mlesniak.herokuapp.com/notes).
+1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
+1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
+1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-
-1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [#2AC](http://mlesniak.herokuapp.com/notes).
-1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [#1AB](http://mygistsmlipowski.herokuapp.com).
-1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [#1](http://gists.herokuapp.com/).
-1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [#1AB](http://mybeanaries.herokuapp.com).
 1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [#1AA](http://mygistsrework.herokuapp.com).
 1. [Marciniak, Paulina](https://github.com/MPaulina/my_gist). [#1](http://asi-my-gist.herokuapp.com/).
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
