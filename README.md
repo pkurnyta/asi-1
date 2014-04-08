@@ -25,7 +25,7 @@ Unit Testing
 
 ### Wasze projekty
 
-1. ? [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [#1AA](http://mygists-pa.herokuapp.com).
+1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [C#1](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/ruby). [C#1](http://nowyprojekt123.herokuapp.com).
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [E#1](http://mygistsmborkowski.herokuapp.com).
@@ -37,13 +37,13 @@ Unit Testing
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [D+#1](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
 1. [Janowski, Arkadiusz](https://github.com/janusy/my_gists). [D#1](http://janusygists.herokuapp.com).
+1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [C+#1](http://jaworgists.herokuapp.com).
+1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [A#1](http://snippeter-app.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Jaworowski, Michał](https://github.com/kropeq/my-gist). [#1](http://jaworgists.herokuapp.com).
-1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [#1](http://snippeter-app.herokuapp.com).
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [#1CC](http://gistmaster.herokuapp.com).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [#1](http://mygists-jkarolczak.herokuapp.com).
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [#1BA](http://jankkolgists.herokuapp.com).
