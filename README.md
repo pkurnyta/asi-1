@@ -63,7 +63,7 @@ Unit Testing
 1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [C+#1](http://mossowski-gists.herokuapp.com).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [C#1](http://notateczki.herokuapp.com).
 1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [D#3](http://pelen.herokuapp.com).
-1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20 == "C"`]
+1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20`]
 1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [C#1](http://mojezadania.herokuapp.com).
 1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [E#3](http://ziomski.herokuapp.com) [dropbox+cloudinary].
 1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [C+#1](http://mygistsszymonrekawek.herokuapp.com).
@@ -101,7 +101,7 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
-1. Kurnyta, Przemysław.
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [#1](http://pk-gists.herokuapp.com/).
 1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
