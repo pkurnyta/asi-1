@@ -66,15 +66,15 @@ Unit Testing
 1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20`]
 1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [C#1](http://mojezadania.herokuapp.com).
 1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [E#3](http://ziomski.herokuapp.com) [dropbox+cloudinary].
-1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [C+#1CB](http://mygistsszymonrekawek.herokuapp.com).
+1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [C+#1](http://mygistsszymonrekawek.herokuapp.com).
+1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [C+#1](http://fast-beach-4233.herokuapp.com/gists).
+1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [E#3](http://asisecond.herokuapp.com).
+1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [E#3](http://jsvideos.herokuapp.com) [google strorage+fog].
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [#1](http://fast-beach-4233.herokuapp.com/gists).
-1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [#3CB](http://asisecond.herokuapp.com).
-1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [#3](http://jsvideos.herokuapp.com).
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [#1AA](http://projekcik1.herokuapp.com).
 1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [#1CB](http://lsgists.herokuapp.com/gists).
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI), [#4](http://vanfisk.herokuapp.com)
