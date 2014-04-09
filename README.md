@@ -21,7 +21,7 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 ???
 
 
-### Wasze projekty
+### Wasze prace
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [C#1](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
