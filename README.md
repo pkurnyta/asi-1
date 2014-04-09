@@ -55,8 +55,8 @@ Unit Testing
 1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [C#1](http://mygistsrework.herokuapp.com).
 1. [Marciniak, Paulina](https://github.com/MPaulina/my_gist). [C#1](http://asi-my-gist.herokuapp.com/).
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [D#1](http://smasztarowskigists.herokuapp.com).
-1. [Miś, Maciej](https://github.com/MacMisDev/gists). [A#1](http://mmgists.heroku.com) [chartkick].
-1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [A#4](http://my-yachts.herokuapp.com).
+1. [Miś, Maciej](https://github.com/MacMisDev/gists). [E#1](http://mmgists.heroku.com) [chartkick].
+1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [E#4](http://my-yachts.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
