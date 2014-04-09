@@ -73,14 +73,14 @@ Unit Testing
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [C#1](http://projekcik1.herokuapp.com).
 1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [C#1](http://lsgists.herokuapp.com/gists).
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [C#1](http://psgists.herokuapp.com/).
+1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [C+#1](http://mygistsapp.herokuapp.com/)
+1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists). [C+#1](http://lrails.herokuapp.com/).
+1. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [E#2](http://www.rails.zajacmp3.pl).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [#1BA](http://mygistsapp.herokuapp.com/)
-1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists), [#1](http://lrails.herokuapp.com/).
-1. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [#1](http://dzawadzki-app.herokuapp.com).
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [#3](http://my-books-macio1992.herokuapp.com/)
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
@@ -101,7 +101,7 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [#1](http://pk-gists.herokuapp.com/).
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [C#1](http://pk-gists.herokuapp.com/).
 1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
