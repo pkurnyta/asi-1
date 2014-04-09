@@ -57,17 +57,17 @@ Unit Testing
 1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [D#1](http://smasztarowskigists.herokuapp.com).
 1. [Miś, Maciej](https://github.com/MacMisDev/gists). [E#1](http://mmgists.heroku.com) [chartkick].
 1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [E#4](http://my-yachts.herokuapp.com).
+1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [D#1](http://djangoisbetterthanrails.herokuapp.com).
+1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [C#1](http://just-some-gists.herokuapp.com).
+1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby). [D#1](http://kochedzan.herokuapp.com).
+1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [C+#1](http://mossowski-gists.herokuapp.com).
+1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [C#1](http://notateczki.herokuapp.com).
+1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [D#3](http://pelen.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [#1](http://djangoisbetterthanrails.herokuapp.com).
-1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [#1](http://just-some-gists.herokuapp.com).
-1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby). [#1](http://kochedzan.herokuapp.com).
-1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [#1](http://mossowski-gists.herokuapp.com).
-1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [#1](http://notateczki.herokuapp.com).
-1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [#3](http://pelen.herokuapp.com).
 1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [#1](http://lpiotrkowski-gists.herokuapp.com/).
 1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [#1AA](http://mojezadania.herokuapp.com).
 1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3CB](http://ziomski.herokuapp.com).
