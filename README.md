@@ -1,7 +1,5 @@
 ## Architektura Serwisów Internetowych 2013/14
 
-Strona z linkami do projektów na zaliczenie i egzamin z przedmiotu „Architektura Serwisów Internetowych”.
-
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
 
 Oceny: A1, B2, C3, D4, E5.
@@ -9,18 +7,18 @@ Oceny: A1, B2, C3, D4, E5.
 
 ### Testowanie aplikacji z RSpec
 
-[Dokumentacja](http://rspec.info/):
+Do aplikacji przygotowywanych na egzamin należy dopisać testy.
+Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 
 - [rspec-core](https://github.com/rspec/rspec-core)
 - [rspec-expectations](https://github.com/rspec/rspec-expectations)
 - [rspec-mocks](https://github.com/rspec/rspec-mocks)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 
-Tutoriale:
 
-* [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
-Unit Testing
-* [A Guide to Testing Rails Applications](http://edgeguides.rubyonrails.org/testing.html)
+### Teams
+
+???
 
 
 ### Wasze projekty
@@ -76,14 +74,9 @@ Unit Testing
 1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [C+#1](http://mygistsapp.herokuapp.com/)
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists). [C+#1](http://lrails.herokuapp.com/).
 1. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [E#2](http://www.rails.zajacmp3.pl).
+1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [C+#1](http://dzawadzki-app.herokuapp.com).
+1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [C#3](http://managerstore.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
-
-
-#### TODO
-
-1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [#1](http://dzawadzki-app.herokuapp.com).
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [#3](http://my-books-macio1992.herokuapp.com/)
-1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [#3BB](http://managerstore.herokuapp.com).
 
 
 ### Testowanie API za pomocą RSpec
@@ -110,6 +103,7 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
 
 
@@ -117,6 +111,9 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 
 * TJ VanToll.
   [List of Pseudo-Elements to Style Form Controls](http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/)
+* [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
+  Unit Testing
+* [A Guide to Testing Rails Applications](http://edgeguides.rubyonrails.org/testing.html)
 
 
 ## Kilka uwag
