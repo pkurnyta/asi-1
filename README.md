@@ -70,14 +70,13 @@ Unit Testing
 1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [C+#1](http://fast-beach-4233.herokuapp.com/gists).
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [E#3](http://asisecond.herokuapp.com).
 1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [E#3](http://jsvideos.herokuapp.com) [google strorage+fog].
+1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [C#1](http://projekcik1.herokuapp.com).
+1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [C#1](http://lsgists.herokuapp.com/gists).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [#1AA](http://projekcik1.herokuapp.com).
-1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [#1CB](http://lsgists.herokuapp.com/gists).
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI), [#4](http://vanfisk.herokuapp.com)
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [#1DB](http://psgists.herokuapp.com/).
 1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [#1BA](http://mygistsapp.herokuapp.com/)
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists), [#1](http://lrails.herokuapp.com/).
@@ -106,6 +105,7 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [#4](http://vanfisk.herokuapp.com).
 1. Stasiak, Sebastian.
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
