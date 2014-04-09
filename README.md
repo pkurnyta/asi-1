@@ -16,7 +16,7 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 
 
-### Teams
+### Teams 4.1.0
 
 ???
 
