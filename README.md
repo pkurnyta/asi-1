@@ -103,7 +103,7 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [B#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Kurnyta, Przemysław.
-1. [Leyk, Szymon](https://github.com/leyas/rails-app). [#2](http://sl-gists.herokuapp.com/).
+1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
 1. Stasiak, Sebastian.
@@ -127,13 +127,13 @@ Podstawowe funkcjonalności, które należy zaimplementować:
 Co to oznacza, w wypadku Bootstrapa jest opisane w sekcji
 [Mobile first](http://getbootstrap.com/css/#overview-mobile).
 W szczególności należy dopracować stronę główna aplikacji.
-
 2. Każda z przykładowych aplikacji musi mieć zaimplementowane:
 wyszukiwanie i paginację (z infinite scrolling).
-
 3. Do aplikacji wdrożonej na Heroku należy dodać sporo
 sensownych przykładowych rekordów. W tym celu należy użyć
 pliku *db/seeds.rb*.
+4. Plus dla aplikacji korzystających z Rails 4.1.0
+[Variants, Enums lub Mailer previews](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/).
 
 *Uwaga:* W repozytoriach nie powinno być *śmieci*, np.
 plików *backup* edytora.
