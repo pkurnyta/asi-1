@@ -63,15 +63,15 @@ Unit Testing
 1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [C+#1](http://mossowski-gists.herokuapp.com).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [C#1](http://notateczki.herokuapp.com).
 1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [D#3](http://pelen.herokuapp.com).
+1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20`]
+1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [C#1](http://mojezadania.herokuapp.com).
+1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [E#3](http://ziomski.herokuapp.com) [dropbox+cloudinary].
+1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [C+#1CB](http://mygistsszymonrekawek.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [#1](http://lpiotrkowski-gists.herokuapp.com/).
-1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [#1AA](http://mojezadania.herokuapp.com).
-1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [#3CB](http://ziomski.herokuapp.com).
-1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [#1CB](http://mygistsszymonrekawek.herokuapp.com).
 1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [#1](http://fast-beach-4233.herokuapp.com/gists).
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [#3CB](http://asisecond.herokuapp.com).
 1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [#3](http://jsvideos.herokuapp.com).
