@@ -52,16 +52,16 @@ Unit Testing
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
 1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
+1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [C#1](http://mygistsrework.herokuapp.com).
+1. [Marciniak, Paulina](https://github.com/MPaulina/my_gist). [C#1](http://asi-my-gist.herokuapp.com/).
+1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [D#1](http://smasztarowskigists.herokuapp.com).
+1. [Miś, Maciej](https://github.com/MacMisDev/gists). [A#1](http://mmgists.heroku.com) [chartkick].
+1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [A#4](http://my-yachts.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
 #### TODO
 
-1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [#1AA](http://mygistsrework.herokuapp.com).
-1. [Marciniak, Paulina](https://github.com/MPaulina/my_gist). [#1](http://asi-my-gist.herokuapp.com/).
-1. [Masztarowski, Sebastian](https://github.com/Bllade/Gisty). [#1BB](http://smasztarowskigists.herokuapp.com).
-1. [Miś, Maciej](https://github.com/MacMisDev/gists). [#1](http://mmgists.heroku.com).
-1. [Napiórkowski, Sebastian](https://github.com/sebnapi/my_yachts/). [#4](http://my-yachts.herokuapp.com).
 1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [#1](http://djangoisbetterthanrails.herokuapp.com).
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [#1](http://just-some-gists.herokuapp.com).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby). [#1](http://kochedzan.herokuapp.com).
