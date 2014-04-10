@@ -18,7 +18,63 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 
 ### Teams 4.1.0
 
-???
+Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
+modeli generowanych/wymaganych przez użyte gemy, np. *device*).
+
+1. Acewicz-Hepfner, Patryk.
+1. Bednarczyk, Marek.
+1. Bigda, Piotr.
+1. Borkowski, Maciej.
+1. Buda, Marta.
+1. Cimoch, Jarosław.
+1. Czechowicz, Kacper.
+1. Czerwińska, Agnieszka.
+1. Dąbrowski, Arkadiusz.
+1. Gafka, Dariusz.
+1. Gąsior, Łukasz.
+1. Janowski, Arkadiusz.
+1. Jaworowski, Michał.
+1. Józwiak, Roman.
+1. Kadłubowski, Paweł.
+1. Karolczak, Jakub.
+1. Kąkol, Jan.
+1. Komorowski, Szymon.
+1. Korszuń, Kacper.
+1. Kucharski, Maciej.
+1. Kwiatkowski, Dominik.
+1. Labuda, Damian.
+1. Lamkiewicz, Krzysztof.
+1. Leśniak, Michał.
+1. Lipowski, Michał.
+1. Litke, Sabina.
+1. Ławicki, Patryk.
+1. Maciejewski, Michał.
+1. Marciniak, Paulina.
+1. Masztarowski, Sebastian.
+1. Miś, Maciej.
+1. Napiórkowski, Sebastian.
+1. Nowak, Wojciech.
+1. Nowicki, Jakub.
+1. Ochędzan, Krzysztof.
+1. Ossowski, Marcin.
+1. Paluch, Przemysław.
+1. Pieniążczak, Jan.
+1. Piotrkowski, Łukasz.
+1. Plenis, Jakub.
+1. Podgórski, Mirosław.
+1. Rękawek, Szymon.
+1. Rzeszuto, Agnieszka.
+1. Sienkiewicz, Daniel.
+1. Sikora, Jacek.
+1. Skałkowski, Michał.
+1. Skarżyński, Łukasz.
+1. Synowczyk, Piotr.
+1. Szklarska, Milena.
+1. Wittbrodt, Łukasz.
+1. Zając, Mateusz.
+1. Zawadzki, Dawid.
+1. Żynis, Przemysław.
+1. Żuchowski, Sebastian.
 
 
 ### Wasze prace
