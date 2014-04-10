@@ -153,7 +153,7 @@ i listą uczestników według wzoru:
 
 ### Zaliczenie na raz, dwa, trzy (*deadline* 12.05.2014)
 
-Aplikacja którą należy uruchomić, dopisać brakujący kod
+Aplikacja, którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies).
 
 Aplikacja ta korzysta z *Movie Database API*.
