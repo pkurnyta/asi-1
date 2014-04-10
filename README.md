@@ -24,13 +24,16 @@ Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
 modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
 
+Ostateczny termin oddania gotowej aplikacji wdrożonej
+na ShellyCloud – **18.05.2014**.
+
 
 ### Teams 4.1.0 (ostateczny termin pull requests – 15.04.2014)
 
 Szefowie zespołów proszeni są o email z nazwą zespołu
 i listą uczestników według wzoru:
 
-\[Strongman\](*link do repo*) (w repo w pliku *README.md* wpisać listę uczestników).
+\[Strongman\](*link do repo*) (w pliku *README.md* wpisać listę uczestników).
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
