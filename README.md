@@ -104,7 +104,7 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [E#1](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [C#1](http://mojegisty.herokuapp.com).
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [E#3](http://mlesniak.herokuapp.com/notes).
-1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
+1. [Leyk, Szymon](https://github.com/leyas/rails-app). [D#2](http://sl-gists.herokuapp.com/).
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
 1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
