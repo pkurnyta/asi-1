@@ -151,7 +151,7 @@ i listą uczestników według wzoru:
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
-### Zaliczenie na raz, dwa, trzy (*deadline 12.05.2014)
+### Zaliczenie na raz, dwa, trzy (*deadline* 12.05.2014)
 
 * [List of data APIs](https://gist.github.com/afeld/4952991) – none of them
   requires server-side auth or private credentials, and are thus good
