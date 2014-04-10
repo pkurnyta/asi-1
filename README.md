@@ -5,7 +5,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 Oceny: A1, B2, C3, D4, E5.
 
 
-### Testowanie aplikacji z RSpec
+### RSpec
 
 Do aplikacji przygotowywanych na egzamin należy dopisać testy.
 Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
@@ -15,11 +15,21 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 - [rspec-mocks](https://github.com/rspec/rspec-mocks)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 
-
-### Teams 4.1.0
-
 Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
 modeli generowanych/wymaganych przez użyte gemy, np. *device*).
+Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
+
+
+> *Uważaj na człowieka, którego nie interesują szczegóły.*
+>
+> — William Feather
+
+### Teams 4.1.0 (ostateczny termin pull requests – 15.04.2014)
+
+Szefowie zespołów proszeni są o email z nazwą zespołu
+i listą uczestników według wzoru:
+
+\[Strongman\](*link do repo*) (w repo w pliku *README.md* wpisać listę uczestników).
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
