@@ -157,7 +157,8 @@ Aplikacja którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies).
 
 Aplikacja ta korzysta z *Movie Database API*.
-Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z tej listy –
+Zamiast *Movie Database API* można napisać *samodzielnie* inną aplikację
+korzystajacą z innego API, Na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
