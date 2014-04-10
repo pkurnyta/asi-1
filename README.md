@@ -95,14 +95,16 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Józwiak, Roman](https://github.com/gruchanet/snippeter). [E#1](http://snippeter-app.herokuapp.com).
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [E#1](http://gistmaster.herokuapp.com).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [C+#1](http://mygists-jkarolczak.herokuapp.com).
-1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [C#1](http://jankkolgists.herokuapp.com).
+1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [D#1](http://jankkolgists.herokuapp.com).
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject). [C#1](http://stark-beyond-9781.herokuapp.com).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [C#1](http://my-gists.herokuapp.com).
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [C#1](http://pk-gists.herokuapp.com/).
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [C+#1](http://agisty123.herokuapp.com).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [E#1](http://damlab.herokuapp.com).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [C#1](http://mojegisty.herokuapp.com).
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [E#3](http://mlesniak.herokuapp.com/notes).
+1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
 1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
@@ -116,10 +118,10 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby). [D#1](http://kochedzan.herokuapp.com).
 1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [C+#1](http://mossowski-gists.herokuapp.com).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [C#1](http://notateczki.herokuapp.com).
-1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [D#3](http://pelen.herokuapp.com).
+1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [E#3](http://pelen.herokuapp.com). [dropbox]
 1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20 == "C"`]
 1. [Plenis, Jakub](https://github.com/novalien/Aplikacje-zadanie-1). [C#1](http://mojezadania.herokuapp.com).
-1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [E#3](http://ziomski.herokuapp.com) [dropbox+cloudinary].
+1. [Podgórski, Mirosław](https://github.com/ziomski/my_books). [E#3](http://ziomski.herokuapp.com) [cloudinary].
 1. [Rękawek, Szymon](https://github.com/waveq/MyGists). [C+#1](http://mygistsszymonrekawek.herokuapp.com).
 1. [Rzeszuto, Agnieszka](https://github.com/arzsz/my_gists). [C+#1](http://fast-beach-4233.herokuapp.com/gists).
 1. [Sienkiewicz, Daniel](https://github.com/henio180/asisecond). [E#3](http://asisecond.herokuapp.com).
@@ -150,8 +152,6 @@ Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [C#1](http://pk-gists.herokuapp.com/).
-1. [Leyk, Szymon](https://github.com/leyas/rails-app). [C#2](http://sl-gists.herokuapp.com/).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
