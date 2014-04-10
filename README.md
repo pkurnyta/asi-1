@@ -33,7 +33,7 @@ na ShellyCloud – **18.05.2014**.
 Szefowie zespołów proszeni są o email z nazwą zespołu
 i listą uczestników według wzoru:
 
-> \[Strongman\](*link do repo*) (w pliku *README.md* wpisać listę uczestników).
+> \[*nazwazespołu*\](*link do repo na github.com*) (w pliku *README.md* wpisać listę uczestników)
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
