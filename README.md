@@ -36,7 +36,7 @@ i listą uczestników według wzoru:
 > \[*nazwa zespołu*\](*link do repo na github.com*) (w pliku *README.md* wpisać listę uczestników)
 
 1. [CŁOP](https://github.com/kipperek/RailsExam).
-2. [MiDaS Project](https://github.com/henio180/EduWords)
+1. [MiDaS Project](https://github.com/henio180/EduWords)
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
