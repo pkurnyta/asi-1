@@ -185,6 +185,8 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 * [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
   Unit Testing
 * [A Guide to Testing Rails Applications](http://edgeguides.rubyonrails.org/testing.html)
+* [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker](http://blog.mist.io/post/82383668190/move-fast-and-dont-break-things-testing-with):
+  - [Trigger Jenkins builds by pushing to Github](http://fourkitchens.com/blog/2011/09/20/trigger-jenkins-builds-pushing-github)
 
 
 ## Kilka uwag
