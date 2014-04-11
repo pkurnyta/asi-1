@@ -35,13 +35,14 @@ i listą uczestników według wzoru:
 
 > \[*nazwa zespołu*\](*link do repo na github.com*) (w pliku *README.md* wpisać listę uczestników)
 
+1\. [CŁOP](https://github.com/kipperek/RailsExam).
+
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
 1. Buda, Marta.
 1. Cimoch, Jarosław.
-1. Czechowicz, Kacper.
 1. Czerwińska, Agnieszka.
 1. Dąbrowski, Arkadiusz.
 1. Gafka, Dariusz.
@@ -61,7 +62,6 @@ i listą uczestników według wzoru:
 1. Leśniak, Michał.
 1. Lipowski, Michał.
 1. Litke, Sabina.
-1. Ławicki, Patryk.
 1. Maciejewski, Michał.
 1. Marciniak, Paulina.
 1. Masztarowski, Sebastian.
@@ -70,11 +70,9 @@ i listą uczestników według wzoru:
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
 1. Ochędzan, Krzysztof.
-1. Ossowski, Marcin.
 1. Paluch, Przemysław.
 1. Pieniążczak, Jan.
 1. Piotrkowski, Łukasz.
-1. Plenis, Jakub.
 1. Podgórski, Mirosław.
 1. Rękawek, Szymon.
 1. Rzeszuto, Agnieszka.
