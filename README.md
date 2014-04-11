@@ -1,3 +1,8 @@
+> *Uważaj na człowieka, którego nie interesują szczegóły.*
+>
+> — William Feather
+
+
 ## Architektura Serwisów Internetowych 2013/14
 
 Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna aplikacja.
@@ -5,7 +10,7 @@ Legenda: `#1` – MyGists, `#2` – MyPages, `#3` – MyBooks, `#4` – inna apl
 Oceny: A1, B2, C3, D4, E5.
 
 
-### Testowanie aplikacji z RSpec
+### RSpec
 
 Do aplikacji przygotowywanych na egzamin należy dopisać testy.
 Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
@@ -15,11 +20,20 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 - [rspec-mocks](https://github.com/rspec/rspec-mocks)
 - [rspec-rails](https://github.com/rspec/rspec-rails)
 
-
-### Teams 4.1.0
-
 Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
 modeli generowanych/wymaganych przez użyte gemy, np. *device*).
+Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
+
+Ostateczny termin oddania gotowej aplikacji wdrożonej
+na ShellyCloud – **18.05.2014**.
+
+
+### Teams 4.1.0 (ostateczny termin pull requests – 15.04.2014)
+
+Szefowie zespołów proszeni są o email z nazwą zespołu
+i listą uczestników według wzoru:
+
+> \[*nazwa zespołu*\](*link do repo na github.com*) (w pliku *README.md* wpisać listę uczestników)
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
@@ -137,15 +151,14 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
-### Testowanie API za pomocą RSpec
+### Zaliczenie na raz, dwa, trzy (*deadline* 12.05.2014)
 
-* [List of data APIs](https://gist.github.com/afeld/4952991) – none of them
-  requires server-side auth or private credentials, and are thus good
-  for small browser-only JS projects.
-* [MyMovies](https://github.com/rails4/my_movies) – an example app that uses
-  the Movie Database API.
+Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
+i **testy** – [MyMovies](https://github.com/rails4/my_movies).
+Aplikacja ta korzysta z *Movie Database API*.
 
-Zamiast *Movie Database API* można użyć innego API, na przykład któregoś z tej listy –
+Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
+korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
