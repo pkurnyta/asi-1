@@ -128,7 +128,7 @@ i listą uczestników według wzoru:
 1. [Nowak, Wojciech](https://github.com/YoungCoder/railsgists). [D#1](http://djangoisbetterthanrails.herokuapp.com).
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [C#1](http://just-some-gists.herokuapp.com).
 1. [Ochędzan, Krzysztof](https://github.com/Krzychuuu/Ruby). [D#1](http://kochedzan.herokuapp.com).
-1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [C+#1](http://mossowski-gists.herokuapp.com).
+1. [Ossowski, Marcin](https://github.com/mossowski/my_gists). [D#1](http://mossowski-gists.herokuapp.com).
 1. [Paluch, Przemysław](https://github.com/Zhukovo/My_gists-Ruby-on-Rails/tree/production). [C#1](http://notateczki.herokuapp.com).
 1. [Pieniążczak, Jan](https://github.com/Pelen/books2). [E#3](http://pelen.herokuapp.com). [dropbox]
 1. [Piotrkowski, Łukasz](https://github.com/pietrakkk/gists). [C#1](http://lpiotrkowski-gists.herokuapp.com/) [`"C"*20 == "C"`]
