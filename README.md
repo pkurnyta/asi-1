@@ -105,7 +105,7 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Lamkiewicz, Krzysztof](https://github.com/KLamkiewicz/RubyGist). [C#1](http://mojegisty.herokuapp.com).
 1. [Leśniak, Michał](https://github.com/mlesniak91/my_notes). [E#3](http://mlesniak.herokuapp.com/notes).
 1. [Leyk, Szymon](https://github.com/leyas/rails-app). [D#2](http://sl-gists.herokuapp.com/).
-1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [C+#1](http://mygistsmlipowski.herokuapp.com).
+1. [Lipowski, Michał](https://github.com/lipek92/my_gists). [D#1](http://mygistsmlipowski.herokuapp.com).
 1. [Litke, Sabina](https://github.com/SabinaL/my_gists). [C#1](http://gists.herokuapp.com/).
 1. [Ławicki, Patryk](https://github.com/true-or-false/myBinaries). [C+#1](http://mybeanaries.herokuapp.com).
 1. [Maciejewski, Michał](https://github.com/mmaciejewski/my_gists_rework). [C#1](http://mygistsrework.herokuapp.com).
@@ -129,7 +129,7 @@ modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [C#1](http://projekcik1.herokuapp.com).
 1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [C#1](http://lsgists.herokuapp.com/gists).
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [C#1](http://psgists.herokuapp.com/).
-1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [C+#1](http://mygistsapp.herokuapp.com/)
+1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [D#1](http://mygistsapp.herokuapp.com/)
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists). [C+#1](http://lrails.herokuapp.com/).
 1. [Zając, Mateusz](https://github.com/zajacmp3/RubyOnRails-Informatyka-). [E#2](http://www.rails.zajacmp3.pl).
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [C+#1](http://dzawadzki-app.herokuapp.com).
