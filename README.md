@@ -112,7 +112,7 @@ i listą uczestników według wzoru:
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [D#1](http://jankkolgists.herokuapp.com).
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject). [C#1](http://stark-beyond-9781.herokuapp.com).
-1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [C#1](http://my-gists.herokuapp.com).
+1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [D#1](http://my-gists.herokuapp.com).
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/my_gists). [C#1](http://pk-gists.herokuapp.com/).
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/asip1). [C+#1](http://agisty123.herokuapp.com).
 1. [Labuda, Damian](https://github.com/kaka2991/my_gists). [E#1](http://damlab.herokuapp.com).
