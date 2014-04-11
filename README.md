@@ -93,7 +93,7 @@ Indywidualiści:
 1. Żuchowski, Sebastian.
 
 
-### Wasze prace
+### Wasze aplikacje
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [C#1](http://mygists-pa.herokuapp.com).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
