@@ -82,7 +82,6 @@ Indywidualiści:
 1. Rękawek, Szymon.
 1. Rzeszuto, Agnieszka.
 1. Sikora, Jacek.
-1. Skałkowski, Michał.
 1. Skarżyński, Łukasz.
 1. Synowczyk, Piotr.
 1. Szklarska, Milena.
