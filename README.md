@@ -43,7 +43,6 @@ Zespoły:
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [MacMisDev](https://github.com/MacMisDev/karczma)
 
-
 Indywidualiści:
 
 1. Acewicz-Hepfner, Patryk.
@@ -74,7 +73,6 @@ Indywidualiści:
 1. Maciejewski, Michał.
 1. Marciniak, Paulina.
 1. Masztarowski, Sebastian.
-1. Miś, Maciej.
 1. Napiórkowski, Sebastian.
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
@@ -86,7 +84,6 @@ Indywidualiści:
 1. Rękawek, Szymon.
 1. Rzeszuto, Agnieszka.
 1. Sikora, Jacek.
-1. Skarżyński, Łukasz.
 1. Synowczyk, Piotr.
 1. Szklarska, Milena.
 1. Wittbrodt, Łukasz.
