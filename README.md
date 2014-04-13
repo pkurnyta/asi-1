@@ -39,6 +39,10 @@ Zespoły:
 
 1. [CŁOP](https://github.com/kipperek/RailsExam)
 1. [MiDaS Project](https://github.com/henio180/EduWords)
+1. [Z3](https://github.com/zajacmp3/RailsExam)
+1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
+1. [MacMisDev](https://github.com/MacMisDev/karczma)
+
 
 Indywidualiści:
 
@@ -86,7 +90,6 @@ Indywidualiści:
 1. Synowczyk, Piotr.
 1. Szklarska, Milena.
 1. Wittbrodt, Łukasz.
-1. Zając, Mateusz.
 1. Zawadzki, Dawid.
 1. Żynis, Przemysław.
 1. Żuchowski, Sebastian.
