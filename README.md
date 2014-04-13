@@ -91,7 +91,6 @@ Indywidualiści:
 1. Szklarska, Milena.
 1. Wittbrodt, Łukasz.
 1. Zawadzki, Dawid.
-1. Żynis, Przemysław.
 1. Żuchowski, Sebastian.
 
 
@@ -155,7 +154,7 @@ Indywidualiści:
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
 
 
-### Zaliczenie na raz, dwa, trzy (*deadline* 12.05.2014)
+### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
 
 Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies).
