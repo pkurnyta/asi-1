@@ -42,11 +42,8 @@ Zespoły:
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [MacMisDev](https://github.com/MacMisDev/karczma)
-
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
-
-
 
 Indywidualiści:
 
@@ -55,29 +52,23 @@ Indywidualiści:
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
 1. Buda, Marta.
-1. Cimoch, Jarosław.
 1. Czerwińska, Agnieszka.
-1. Dąbrowski, Arkadiusz.
 1. Gafka, Dariusz.
 1. Gąsior, Łukasz.
 1. Janowski, Arkadiusz.
 1. Jaworowski, Michał.
 1. Józwiak, Roman.
 1. Kadłubowski, Paweł.
-1. Karolczak, Jakub.
 1. Kąkol, Jan.
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
 1. Kucharski, Maciej.
 1. Kwiatkowski, Dominik.
 1. Labuda, Damian.
-1. Lamkiewicz, Krzysztof.
-1. Leśniak, Michał.
 1. Lipowski, Michał.
 1. Litke, Sabina.
 1. Maciejewski, Michał.
 1. Marciniak, Paulina.
-1. Masztarowski, Sebastian.
 1. Napiórkowski, Sebastian.
 1. Nowak, Wojciech.
 1. Nowicki, Jakub.
