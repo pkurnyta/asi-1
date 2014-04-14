@@ -43,6 +43,11 @@ Zespoły:
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [MacMisDev](https://github.com/MacMisDev/karczma)
 
+1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
+1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
+
+
+
 Indywidualiści:
 
 1. Acewicz-Hepfner, Patryk.
