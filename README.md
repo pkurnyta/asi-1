@@ -157,6 +157,8 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
+**Zaliczenie + egzamin:**
+
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
@@ -169,6 +171,10 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
+
+**Egzamin:**
+
+1. ?
 
 
 ## Użyteczne linki
