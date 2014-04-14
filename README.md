@@ -45,8 +45,13 @@ Zespoły:
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin)
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
+1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 
 Indywidualiści:
+
+1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
+
+Ścieżka raz, dwa, trzy…?
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
