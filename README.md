@@ -57,8 +57,6 @@ Indywidualiści:
 1. Bednarczyk, Marek.
 1. Bigda, Piotr.
 1. Borkowski, Maciej.
-1. Buda, Marta.
-1. Czerwińska, Agnieszka.
 1. Gafka, Dariusz.
 1. Gąsior, Łukasz.
 1. Józwiak, Roman.
@@ -71,7 +69,6 @@ Indywidualiści:
 1. Labuda, Damian.
 1. Lipowski, Michał.
 1. Litke, Sabina.
-1. Maciejewski, Michał.
 1. Marciniak, Paulina.
 1. Napiórkowski, Sebastian.
 1. Nowak, Wojciech.
