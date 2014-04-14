@@ -41,7 +41,7 @@ Zespoły:
 1. [MiDaS Project](https://github.com/henio180/EduWords)
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
-1. [MacMisDev](https://github.com/MacMisDev/karczma)
+1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma)
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin)
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
