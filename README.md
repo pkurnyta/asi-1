@@ -23,6 +23,8 @@ Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
 modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
+Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
+free hosted continuous integration platform for the open source community.
 
 Ostateczny termin oddania gotowej aplikacji wdrożonej
 na ShellyCloud – **18.05.2014**.
@@ -60,6 +62,9 @@ Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies)
 (testy unit + integration; wystarczy ok. 100 testów).
 Aplikacja ta korzysta z *Movie Database API*.
+
+Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
+free hosted continuous integration platform for the open source community.
 
 Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
 korzystajacą z innego API, na przykład, któregoś z tej listy –
