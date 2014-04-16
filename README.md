@@ -30,13 +30,6 @@ na ShellyCloud – **18.05.2014**.
 
 ### Teams 4.1.0 (ostateczny termin pull requests – 15.04.2014)
 
-Szefowie zespołów proszeni są o email z nazwą zespołu
-i listą uczestników według wzoru:
-
-> \[*nazwa zespołu*\](*link do repo na github.com*) (w pliku *README.md* wpisać listę uczestników)
-
-Zespoły:
-
 1. [CŁOP](https://github.com/kipperek/RailsExam)
 1. [MiDaS Project](https://github.com/henio180/EduWords)
 1. [Z3](https://github.com/zajacmp3/RailsExam)
@@ -47,11 +40,12 @@ Zespoły:
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 1. [PANDA5](https://github.com/lipek92/PANDA5)
-1. [PS](https://github.com/MPaulina/AplikacjaASI)
-1. [JSON Team](https://github.com/gruchanet/snippeter_on_steroids)
-1. [1337](/)
-
+1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI)
+1. [JSON](https://github.com/gruchanet/snippeter_on_steroids)
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
+1. [GITpower](https://github.com/mbednarczyk/asiegzamin)
+1. [None](https://github.com/kaka2991/my_gists)
+1. [1337](/) (brak odsyłącza do repo)
 
 Indywidualiści:
 
@@ -60,24 +54,39 @@ Indywidualiści:
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
 
 
-Ścieżka raz, dwa, trzy…?
+### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
+
+Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
+i **testy** – [MyMovies](https://github.com/rails4/my_movies).
+Aplikacja ta korzysta z *Movie Database API*.
+
+Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
+korzystajacą z innego API, na przykład, któregoś z tej listy –
+[List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
+(forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
+
+**Zaliczenie & Egzamin:**
 
 1. Acewicz-Hepfner, Patryk.
-1. Bednarczyk, Marek.
 1. Bigda, Piotr.
-1. Kadłubowski, Paweł.
-1. Kąkol, Jan.
+1. Chraniuk, Mateusz.
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
+1. Kołek, Maciej.
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
-1. Kucharski, Maciej.
 1. Kwiatkowski, Dominik.
-1. Labuda, Damian.
+1. Mańkowska, Monika.
 1. Pieniążczak, Jan.
 1. Podgórski, Mirosław.
-1. Rzeszuto, Agnieszka.
-1. Sikora, Jacek.
-1. Synowczyk, Piotr.
+1. Sielachowicz, Paweł.
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
+1. Stasiak, Sebastian.
+1. Stenka, Dominik.
+1. Sulich, Bartłomiej.
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
 1. Wittbrodt, Łukasz.
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
+1. Żelazek, Mateusz.
 1. Żuchowski, Sebastian.
 
 
@@ -139,37 +148,6 @@ Indywidualiści:
 1. [Zawadzki, Dawid](https://github.com/ghost717/my_gists). [C+#1](http://dzawadzki-app.herokuapp.com).
 1. [Żynis, Przemysław](https://github.com/Zynio/MyBooks.git). [C#3](http://managerstore.herokuapp.com).
 1. [Żuchowski, Sebastian](https://github.com/modziek/project_ruby). [C#1](http://maniana.herokuapp.com//).
-
-
-### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
-
-Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
-i **testy** – [MyMovies](https://github.com/rails4/my_movies).
-Aplikacja ta korzysta z *Movie Database API*.
-
-Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
-korzystajacą z innego API, na przykład, któregoś z tej listy –
-[List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
-(forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
-
-**Zaliczenie + egzamin:**
-
-1. Chraniuk, Mateusz.
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
-1. Kołek, Maciej.
-1. Mańkowska, Monika.
-1. Sielachowicz, Paweł.
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
-1. Stasiak, Sebastian.
-1. Stenka, Dominik.
-1. Sulich, Bartłomiej.
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
-1. Żelazek, Mateusz.
-
-**Egzamin:**
-
-1. ?
 
 
 ## Użyteczne linki
