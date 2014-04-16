@@ -45,7 +45,7 @@ na ShellyCloud – **18.05.2014**.
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
 1. [GITpower](https://github.com/mbednarczyk/asiegzamin)
 1. [None](https://github.com/kaka2991/my_gists)
-1. [1337](/) (brak odsyłącza do repo)
+1. [1337](/) (brak odsyłacza do repo)
 
 Indywidualiści:
 
