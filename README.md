@@ -57,7 +57,8 @@ Indywidualiści:
 ### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
 
 Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
-i **testy** – [MyMovies](https://github.com/rails4/my_movies).
+i **testy** – [MyMovies](https://github.com/rails4/my_movies)
+(testy unit + integration; wystarczy ok. 100 testów).
 Aplikacja ta korzysta z *Movie Database API*.
 
 Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
