@@ -47,19 +47,24 @@ Zespoły:
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 1. [PANDA5](https://github.com/lipek92/PANDA5)
+1. [PS](https://github.com/MPaulina/AplikacjaASI)
+1. [JSON Team](https://github.com/gruchanet/snippeter_on_steroids)
+1. [1337](/)
+
+1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
 
 Indywidualiści:
 
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
+1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
+1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
+
 
 Ścieżka raz, dwa, trzy…?
 
 1. Acewicz-Hepfner, Patryk.
 1. Bednarczyk, Marek.
 1. Bigda, Piotr.
-1. Gafka, Dariusz.
-1. Gąsior, Łukasz.
-1. Józwiak, Roman.
 1. Kadłubowski, Paweł.
 1. Kąkol, Jan.
 1. Komorowski, Szymon.
@@ -67,19 +72,12 @@ Indywidualiści:
 1. Kucharski, Maciej.
 1. Kwiatkowski, Dominik.
 1. Labuda, Damian.
-1. Litke, Sabina.
-1. Marciniak, Paulina.
-1. Napiórkowski, Sebastian.
-1. Nowak, Wojciech.
-1. Nowicki, Jakub.
 1. Pieniążczak, Jan.
 1. Podgórski, Mirosław.
 1. Rzeszuto, Agnieszka.
 1. Sikora, Jacek.
 1. Synowczyk, Piotr.
-1. Szklarska, Milena.
 1. Wittbrodt, Łukasz.
-1. Zawadzki, Dawid.
 1. Żuchowski, Sebastian.
 
 
