@@ -54,7 +54,7 @@ Indywidualiści:
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
-
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
 
 ### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
 
@@ -80,7 +80,6 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Kołek, Maciej.
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
-1. Kwiatkowski, Dominik.
 1. Mańkowska, Monika.
 1. Pieniążczak, Jan.
 1. Podgórski, Mirosław.
