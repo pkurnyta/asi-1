@@ -48,6 +48,7 @@ na ShellyCloud – **18.05.2014**.
 1. [GITpower](https://github.com/mbednarczyk/asiegzamin)
 1. [None](https://github.com/kaka2991/my_gists)
 1. [1337](/) (brak odsyłacza do repo)
+1. [MirJan](https://github.com/Pelen/mirjan)
 
 Indywidualiści:
 
