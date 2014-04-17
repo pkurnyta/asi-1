@@ -82,8 +82,6 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Komorowski, Szymon.
 1. Korszuń, Kacper.
 1. Mańkowska, Monika.
-1. Pieniążczak, Jan.
-1. Podgórski, Mirosław.
 1. Sielachowicz, Paweł.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
 1. Stasiak, Sebastian.
