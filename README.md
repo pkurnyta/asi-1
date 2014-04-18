@@ -52,10 +52,12 @@ na ShellyCloud – **18.05.2014**.
 
 Indywidualiści:
 
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
+1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
-1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
+
 
 ### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
 
@@ -75,7 +77,6 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 **Zaliczenie & Egzamin:**
 
 1. Acewicz-Hepfner, Patryk.
-1. Bigda, Piotr.
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
