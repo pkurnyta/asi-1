@@ -179,8 +179,9 @@ wyszukiwanie i paginację (z infinite scrolling).
 3. Do aplikacji wdrożonej na Heroku należy dodać sporo
 sensownych przykładowych rekordów. W tym celu należy użyć
 pliku *db/seeds.rb*.
-4. Plus dla aplikacji korzystających z Rails 4.1.0
-[Variants, Enums lub Mailer previews](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/).
+4. Plus dla aplikacji korzystających z:
+  - Rails 4.1.0 [Variants, Enums lub Mailer previews](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/).
+  - [Sizer Soze](http://sizersoze.org/) – What is the cost of your non-responsive images?
 
 *Uwaga:* W repozytoriach nie powinno być *śmieci*, np.
 plików *backup* edytora.
