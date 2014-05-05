@@ -53,6 +53,7 @@ na ShellyCloud – **18.05.2014**.
 Indywidualiści:
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam) 
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
