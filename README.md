@@ -26,11 +26,13 @@ Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
 free hosted continuous integration platform for the open source community.
 
-Ostateczny termin oddania gotowej aplikacji wdrożonej
-na ShellyCloud – **18.05.2014**.
+Aplikację należy wdrożyć na ShellyCloud.
+
+Ostateczny termin pull requests z linkiem do repozytorium 
+z kodem aplikacji – **15.04.2014**.
 
 
-### Teams 4.1.0 (ostateczny termin pull requests – 15.04.2014)
+### Teams 4.1.0 (*deadline* – 18.05.2014)
 
 1. [CŁOP](https://github.com/kipperek/RailsExam)
 1. [MiDaS Project](https://github.com/henio180/EduWords)
@@ -59,7 +61,7 @@ Indywidualiści:
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
 
 
-### Ścieżka raz, dwa, trzy (*deadline* 12.05.2014)
+### Ścieżka raz, dwa, trzy (*deadline* – 12.05.2014)
 
 Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies)
