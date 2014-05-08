@@ -32,7 +32,7 @@ Ostateczny termin pull requests z linkiem do repozytorium
 z kodem aplikacji – **15.04.2014**.
 
 
-### Teams 4.1.0 (*deadline* – 18.05.2014)
+### Teams 4.1.1 (*deadline* – 18.05.2014)
 
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
 free hosted continuous integration platform for the open source community.
