@@ -51,6 +51,7 @@ z kodem aplikacji – **15.04.2014**.
 1. [None](https://github.com/kaka2991/my_gists)
 1. [1337](/) (brak odsyłacza do repo)
 1. [MirJan](https://github.com/Pelen/mirjan)
+1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor)
 
 Indywidualiści:
 
@@ -91,10 +92,8 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
-1. Wittbrodt, Łukasz.
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
-1. Żuchowski, Sebastian.
 
 
 ### Wasze aplikacje (zaliczenie)
