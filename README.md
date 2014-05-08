@@ -52,7 +52,7 @@ free hosted continuous integration platform for the open source community.
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
 1. [GITpower](https://github.com/mbednarczyk/asiegzamin)
 1. [None](https://github.com/kaka2991/my_gists)
-1. [1337](/) (brak odsyłacza do repo)
+1. [1337](https://github.com/mateuszdargacz/1337)
 1. [MirJan](https://github.com/Pelen/mirjan)
 1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor)
 
