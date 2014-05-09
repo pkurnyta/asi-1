@@ -55,6 +55,7 @@ free hosted continuous integration platform for the open source community.
 1. [1337](https://github.com/mateuszdargacz/1337)
 1. [MirJan](https://github.com/Pelen/mirjan)
 1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor)
+1. [Hawks2 Team](https://github.com/szykom/AsiYT)
 
 Indywidualiści:
 
@@ -82,11 +83,9 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 
 **Zaliczenie & Egzamin:**
 
-1. Acewicz-Hepfner, Patryk.
 1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
-1. Komorowski, Szymon.
 1. Korszuń, Kacper.
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
