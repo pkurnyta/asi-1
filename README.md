@@ -63,6 +63,7 @@ Indywidualiści:
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2)
 
 
 ### Ścieżka raz, dwa, trzy (*deadline* – 12.05.2014)
