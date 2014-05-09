@@ -102,7 +102,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 ### Wasze aplikacje (zaliczenie)
 
 1. [Acewicz-Hepfner, Patryk](https://github.com/pacewicz/my_gists). [C#1](http://mygists-pa.herokuapp.com).
-1. Banecki, Daniel. [C#1](http://filmotekaczlowieka.herokuapp.com/).
+1. Banecki, Daniel. [D#1](http://filmotekaczlowieka.herokuapp.com/).
 1. [Bednarczyk, Marek](https://github.com/mbednarczyk/my_gists_reedit). [E#1](http://mygistsmbednarczyk.herokuapp.com).
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/ruby). [C#1](http://nowyprojekt123.herokuapp.com).
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [D#1](http://mygistsmborkowski.herokuapp.com).
