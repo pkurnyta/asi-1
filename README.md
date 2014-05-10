@@ -94,7 +94,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Stasiak, Sebastian.
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists).
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
 
