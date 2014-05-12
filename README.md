@@ -88,6 +88,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. Kołek, Maciej.
 1. Korszuń, Kacper.
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam).
 1. Mańkowska, Monika.
 1. Sielachowicz, Paweł.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
