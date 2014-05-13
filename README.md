@@ -26,7 +26,8 @@ Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
 free hosted continuous integration platform for the open source community.
 
-Aplikację należy wdrożyć na ShellyCloud.
+Aplikację należy wdrożyć na **ShellyCloud**.
+(Chyba, że ustaliłem to z szefem zespołu inaczej.)
 
 Ostateczny termin pull requests z linkiem do repozytorium
 z kodem aplikacji – **15.04.2014**.
