@@ -98,13 +98,13 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 
 **Egzamin poprawkowy (wrzesień):**
 
-1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123), C#1.
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam).
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
-
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/).
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
+1. [Stenka, Dominik](https://github.com/ddstenka/my_gists). [C#1](http://rubyongist.herokuapp.com/)
 
 ### Wasze aplikacje (zaliczenie)
 
