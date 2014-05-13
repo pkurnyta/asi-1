@@ -93,6 +93,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 
 **Zaliczenie (maj) + Egzamin poprawkowy (wrzesień):**
 
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123), C#1.
 1. Chraniuk, Mateusz.
 1. Kołek, Maciej.
 1. Mańkowska, Monika.
