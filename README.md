@@ -84,16 +84,10 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 
 **Zaliczenie + Egzamin:**
 
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam).
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies).
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
 
-**Zaliczenie (maj) + Egzamin poprawkowy (wrzesień):**
+**Niezaliczone laboratorium:**
 
-1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123), C#1.
 1. Chraniuk, Mateusz.
 1. Kołek, Maciej.
 1. Mańkowska, Monika.
@@ -101,6 +95,15 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. Żelazek, Mateusz.
+
+**Egzamin poprawkowy (wrzesień):**
+
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123), C#1.
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam).
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 
 ### Wasze aplikacje (zaliczenie)
