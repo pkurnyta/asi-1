@@ -82,21 +82,23 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
-**Zaliczenie & Egzamin:**
+**Zaliczenie + Egzamin:**
 
-1. Chraniuk, Mateusz.
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
-1. Kołek, Maciej.
-1. Korszuń, Kacper.
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam).
-1. Mańkowska, Monika.
 1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies).
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
+
+**Zaliczenie (maj) + Egzamin poprawkowy (wrzesień):**
+
+1. Chraniuk, Mateusz.
+1. Kołek, Maciej.
+1. Mańkowska, Monika.
 1. Stasiak, Sebastian.
 1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/)
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. Żelazek, Mateusz.
 
 
