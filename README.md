@@ -82,17 +82,13 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
-**Zaliczenie + Egzamin:**
-
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
-
 **Niezaliczone laboratorium:**
 
 1. Chraniuk, Mateusz.
 1. Kołek, Maciej.
 1. Mańkowska, Monika.
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
 1. Stasiak, Sebastian.
-1. Stenka, Dominik.
 1. Sulich, Bartłomiej.
 1. Żelazek, Mateusz.
 
@@ -104,7 +100,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [#1](http://zaliczenie.herokuapp.com/).
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
-1. [Stenka, Dominik](https://github.com/ddstenka/my_gists). [C#1](http://rubyongist.herokuapp.com/)
+
 
 ### Wasze aplikacje (zaliczenie)
 
@@ -158,6 +154,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Sikora, Jacek](https://github.com/jaresh/my_videos). [E#3](http://jsvideos.herokuapp.com) [google strorage+fog].
 1. [Skałkowski, Michał](https://github.com/Michaldwadwa/projekt1-rails). [C#1](http://projekcik1.herokuapp.com).
 1. [Skarżyński, Łukasz](https://github.com/LukSkarDev/railsapp). [C#1](http://lsgists.herokuapp.com/gists).
+1. [Stenka, Dominik](https://github.com/ddstenka/my_gists). [C#1](http://rubyongist.herokuapp.com/)
 1. [Synowczyk, Piotr](https://github.com/psynowczyk/MyGists), [C#1](http://psgists.herokuapp.com/).
 1. [Szklarska, Milena](https://github.com/madebytechnology/Gists), [D#1](http://mygistsapp.herokuapp.com/)
 1. [Wittbrodt, Łukasz](https://github.com/lukasz978/my_gists). [C+#1](http://lrails.herokuapp.com/).
