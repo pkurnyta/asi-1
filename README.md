@@ -172,8 +172,8 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 * [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) –
   Unit Testing
 * [A Guide to Testing Rails Applications](http://edgeguides.rubyonrails.org/testing.html)
-* [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker](http://blog.mist.io/post/82383668190/move-fast-and-dont-break-things-testing-with):
-  - [Trigger Jenkins builds by pushing to Github](http://fourkitchens.com/blog/2011/09/20/trigger-jenkins-builds-pushing-github)
+* Every Dog has one Blog.
+  [Must Have Gems for Development Machine in Ruby on Rails](http://www.codebeerstartups.com/2013/04/must-have-gems-for-development-machine-in-ruby-on-rails)
 
 
 ## Kilka uwag
@@ -190,7 +190,7 @@ wyszukiwanie i paginację (z infinite scrolling).
 sensownych przykładowych rekordów. W tym celu należy użyć
 pliku *db/seeds.rb*.
 4. Plus dla aplikacji korzystających z:
-  - Rails 4.1.0 [Variants, Enums lub Mailer previews](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/).
+  - Rails 4.1 [Variants, Enums lub Mailer previews](http://weblog.rubyonrails.org/2014/4/8/Rails-4-1/).
   - [Sizer Soze](http://sizersoze.org/) – What is the cost of your non-responsive images?
 
 *Uwaga:* W repozytoriach nie powinno być *śmieci*, np.
