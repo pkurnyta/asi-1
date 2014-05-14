@@ -61,7 +61,7 @@ free hosted continuous integration platform for the open source community.
 Indywidualiści:
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
-1. Kołek, Maciej.
+1. Kołek, Maciej
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
