@@ -12,8 +12,8 @@ Oceny: A1, B2, C3, D4, E5.
 
 ### RSpec
 
-Do aplikacji przygotowywanych na egzamin należy dopisać testy.
-(Wystarczy ok. 50 testów – po równo testów dla *controllers* i *views*.)
+Do aplikacji przygotowywanych na egzamin należy dopisać testy.<br>
+(Wystarczy ok. 50 testów – po równo testów dla *controllers* i *views*.)<br>
 Testy powinny korzystać z narzędzia [RSpec](http://rspec.info/):
 
 - [rspec-core](https://github.com/rspec/rspec-core)
