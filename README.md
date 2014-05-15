@@ -96,7 +96,6 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 **Egzamin poprawkowy (wrzesień):**
 
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
-1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/).
@@ -114,6 +113,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [D#1](http://jcimoch-my-gists.herokuapp.com/).
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [E#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [D#1](http://gistmys.herokuapp.com/).
+1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
 1. [Dąbrowski, Arkadiusz](https://github.com/ArkadiuszD/Wpisy). [D#1](http://kolejnedziadostwo.herokuapp.com/).
 1. [Gafka, Dariusz](https://github.com/dgafka/my_gists). [D+#1](http://evening-everglades-2118.herokuapp.com).
 1. [Gąsior, Łukasz](https://github.com/lukgas6/projekt-asi). [D+#1](http://lgasior-gists.herokuapp.com/).
