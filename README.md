@@ -38,7 +38,7 @@ z kodem aplikacji – **15.04.2014**.
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
 free hosted continuous integration platform for the open source community.
 
-1. [CŁOP](https://github.com/kipperek/RailsExam)
+1. [CŁOP](https://github.com/kipperek/RailsExam). `[Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
 1. [MiDaS Project](https://github.com/henio180/EduWords)
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
