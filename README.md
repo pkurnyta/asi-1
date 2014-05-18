@@ -63,7 +63,7 @@ Dane wpisujemy tak:
 
 1. `[Nazwa zespołu](link do repozytorium). [Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
 
-Proszę o dodanie mnie jako *collaborator* do repozytorium z projektem.
+**Proszę o dodanie mnie jako *collaborator* do repozytorium z projektem.**
 
 #### Zespoły
 
