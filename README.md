@@ -92,7 +92,7 @@ Dane wpisujemy tak:
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
-1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](szymon.shellyapp.com)
+1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI).
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/)
