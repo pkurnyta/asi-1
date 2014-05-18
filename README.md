@@ -68,34 +68,34 @@ Proszę o dodanie mnie jako *collaborator* do repozytorium z projektem.
 #### Zespoły
 
 1. [CŁOP](https://github.com/kipperek/RailsExam).
-1. [MiDaS Project](https://github.com/henio180/EduWords)
-1. [Z3](https://github.com/zajacmp3/RailsExam)
-1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
-1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma)
+1. [MiDaS Project](https://github.com/henio180/EduWords).
+1. [Z3](https://github.com/zajacmp3/RailsExam).
+1. [PMT](https://github.com/Macio1992/rubyOnRailsProject).
+1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma).
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/)
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
-1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
+1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject).
 1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com)
-1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI)
-1. [JSON](https://github.com/gruchanet/snippeter_on_steroids)
-1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo)
-1. [GITpower](https://github.com/mbednarczyk/asiegzamin)
-1. [None](https://github.com/kaka2991/my_gists)
-1. [1337](https://github.com/YoungCoder/1337/)
+1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI).
+1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
+1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo).
+1. [GITpower](https://github.com/mbednarczyk/asiegzamin).
+1. [None](https://github.com/kaka2991/my_gists).
+1. [1337](https://github.com/YoungCoder/1337/).
 1. [MirJan](https://github.com/Pelen/mirjan). [MyBooks](http://mirjan.shellyapp.com)
-1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor)
-1. [Hawks2 Team](https://github.com/szykom/AsiYT)
+1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor).
+1. [Hawks2 Team](https://github.com/szykom/AsiYT).
 
 #### Indywidualiści
 
-1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty (My Gists)](http://agisty.shellyapp.com)
-1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
-1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
-1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam)
-1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2)
+1. [Leyk, Szymon](https://github.com/leyas/rails-exam).
+1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI).
+1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam).
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2).
 
 
 ### Ścieżka raz, dwa, trzy (*deadline* – 12.05.2014)
@@ -113,7 +113,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
-1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1
 
 
 ### Wasze aplikacje (zaliczenie)
