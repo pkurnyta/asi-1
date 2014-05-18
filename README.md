@@ -61,7 +61,7 @@ free hosted continuous integration platform for the open source community.
 Indywidualiści:
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
-1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [E#4](http://beta.csgotraders.net)
+1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy)
 1. [Leyk, Szymon](https://github.com/leyas/rails-exam)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-ASI)
@@ -93,11 +93,11 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. Sulich, Bartłomiej.
 1. Żelazek, Mateusz.
 
-**Egzamin poprawkowy (wrzesień):**
+**Egzamin poprawkowy (piątek, 29 czerwiec):**
 
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com).
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com). **brak na liście**
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/).
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
 
@@ -123,6 +123,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Kadłubowski, Paweł](https://github.com/kpawel-29/my_gists_with_bootstrap). [E#1](http://gistmaster.herokuapp.com).
 1. [Karolczak, Jakub](https://github.com/Taureli/MyGists). [C+#1](http://mygists-jkarolczak.herokuapp.com).
 1. [Kąkol, Jan](https://github.com/jankkol/ruby_gist). [D#1](http://jankkolgists.herokuapp.com).
+1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [E#4](http://beta.csgotraders.net)
 1. [Komorowski, Szymon](https://github.com/szykom/asi-my-gists). [C+#1](http://szykom-my-gists.herokuapp.com).
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsGistProject). [C#1](http://stark-beyond-9781.herokuapp.com).
 1. [Kucharski, Maciej](https://github.com/Maciekek/my-gists2). [D#1](http://my-gists.herokuapp.com).
