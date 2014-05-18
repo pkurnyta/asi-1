@@ -33,18 +33,47 @@ Ostateczny termin pull requests z linkiem do repozytorium
 z kodem aplikacji – **15.04.2014**.
 
 
+### Niezaliczone laboratorium
+
+Proszę o majl:
+
+1. Chraniuk, Mateusz.
+1. Mańkowska, Monika.
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
+1. Stasiak, Sebastian.
+1. Sulich, Bartłomiej.
+1. Żelazek, Mateusz.
+
+
+### Egzamin poprawkowy
+
+Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
+
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com). **brak na liście z dziekanatu**
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/).
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
+
+
 ### Teams 4.1.1 (*deadline* – 18.05.2014)
 
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
 free hosted continuous integration platform for the open source community.
+Dane wpisujemy tak:
 
-1. [CŁOP](https://github.com/kipperek/RailsExam). `[Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
+1. `[Nazwa zespołu](link do repozytorium). [Nazwa Aplikacji](link do aplikacji na Shelly Cloud)`
+
+Proszę o dodanie mnie jako *collaborator* do repozytorium z projektem.
+
+#### Zespoły
+
+1. [CŁOP](https://github.com/kipperek/RailsExam).
 1. [MiDaS Project](https://github.com/henio180/EduWords)
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma)
-1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin) [My Gists](http://ror-bociany.shellyapp.com/)
-1. [Noramino…](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
+1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/)
+1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com)
@@ -58,7 +87,7 @@ free hosted continuous integration platform for the open source community.
 1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor)
 1. [Hawks2 Team](https://github.com/szykom/AsiYT)
 
-Indywidualiści:
+#### Indywidualiści
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin)
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
@@ -84,22 +113,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
-**Niezaliczone laboratorium:**
-
-1. Chraniuk, Mateusz.
-1. Mańkowska, Monika.
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
-1. Stasiak, Sebastian.
-1. Sulich, Bartłomiej.
-1. Żelazek, Mateusz.
-
-**Egzamin poprawkowy (piątek, 29 czerwiec):**
-
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com). **brak na liście**
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/).
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
 
 
 ### Wasze aplikacje (zaliczenie)
