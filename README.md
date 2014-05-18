@@ -43,7 +43,7 @@ free hosted continuous integration platform for the open source community.
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma)
-1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin)
+1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin) [My Gists](http://ror-bociany.shellyapp.com/)
 1. [Noramino…](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
