@@ -49,10 +49,10 @@ Proszę o majl:
 
 Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1.
-1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com). **brak na liście z dziekanatu**
-1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/).
-1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/).
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1
+1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
+1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
+1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 
 ### Teams 4.1.1 (*deadline* – 18.05.2014)
