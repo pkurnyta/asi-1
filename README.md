@@ -44,7 +44,7 @@ free hosted continuous integration platform for the open source community.
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma)
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin)
-1. [Noramino…](https://github.com/Bllade/ASI_exam.git)
+1. [Noramino…](https://github.com/Bllade/ASI_exam.git) -- [notes-exam](notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 1. [PANDA5](https://github.com/lipek92/PANDA5)
