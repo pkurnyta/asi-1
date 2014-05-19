@@ -117,6 +117,8 @@ Dane wpisujemy tak:
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/)
 
 
+<!--
+
 ### Ścieżka raz, dwa, trzy (*deadline* – 12.05.2014)
 
 Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
@@ -131,6 +133,8 @@ Zamiast aplikacji *MyMovies* można napisać *samodzielnie* inną aplikację
 korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
+
+-->
 
 
 ### Wasze aplikacje (zaliczenie)
