@@ -120,7 +120,7 @@ TODO:
 
 #### Indywidualiści
 
-1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/)
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/) [Shelly Cloud?]
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net) [Gemfile: rspec2, Travis: brak]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
