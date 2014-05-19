@@ -94,15 +94,15 @@ Dane wpisujemy tak:
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject). [Games](http://game-reviews.shellyapp.com/)
 1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com)
-1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI).
-1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
-1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo).
-1. [GITpower](https://github.com/mbednarczyk/asiegzamin).
-1. [None](https://github.com/kaka2991/my_gists).
-1. [1337](https://github.com/YoungCoder/1337/).
-1. [MirJan](https://github.com/Pelen/mirjan). [MyBooks](http://mirjan.shellyapp.com)
+1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI). 21.05
+1. [JSON](https://github.com/gruchanet/snippeter_on_steroids). 23.05
+1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo). 24.05
+1. [GITpower](https://github.com/mbednarczyk/asiegzamin). [My Gists](http://asiegzamin.shellyapp.com)
+1. [None](https://github.com/kaka2991/my_gists). [brakujący link do wdrożonej aplikacji]
+1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
+1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com)
 1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net)
-1. [Hawks2 Team](https://github.com/szykom/AsiYT).
+1. [Hawks2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 #### Indywidualiści
 
