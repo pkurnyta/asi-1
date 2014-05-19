@@ -84,7 +84,7 @@ Dane wpisujemy tak:
 1. [None](https://github.com/kaka2991/my_gists).
 1. [1337](https://github.com/YoungCoder/1337/).
 1. [MirJan](https://github.com/Pelen/mirjan). [MyBooks](http://mirjan.shellyapp.com)
-1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor).
+1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net)
 1. [Hawks2 Team](https://github.com/szykom/AsiYT).
 
 #### Indywidualiści
