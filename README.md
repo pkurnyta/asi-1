@@ -93,6 +93,7 @@ free hosted continuous integration platform for the open source community.
 1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com) [1 model]
 1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
+1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/) [1 model, Gemfile: rspec2]
 
 ----
 
@@ -102,7 +103,6 @@ Dane wpisujemy tak:
 
 TODO:
 
-1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/)
 1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI).
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo).
