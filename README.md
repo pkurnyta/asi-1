@@ -25,8 +25,8 @@ Aplikacja powinna składać się z co najmniej dwóch modeli (nie wliczając
 modeli generowanych/wymaganych przez użyte gemy, np. *device*).
 Aplikacja powinna być napisana w Rails w wersji nie mniejszej niż 4.1.0.
 
-Aplikację należy wdrożyć na **ShellyCloud**.
-(Chyba, że ustaliłem to z szefem zespołu inaczej.)
+Aplikację należy wdrożyć na **ShellyCloud**.<br>
+(Chyba, że ustaliłem to z szefem zespołu inaczej.)<br>
 Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 
