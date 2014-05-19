@@ -86,10 +86,10 @@ Dane wpisujemy tak:
 #### Zespoły
 
 1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
-1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl)
+1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl) [1 model]
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
-1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/)
+1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/) [1 model]
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject). [Games](http://game-reviews.shellyapp.com/)
@@ -113,7 +113,7 @@ Dane wpisujemy tak:
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/)
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
-1. [urnyta, Przemysław](https://github.com/pkurnyta/exam). [brak odsyłacza do wdrożonej aplikacji]
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [brak odsyłacza do wdrożonej aplikacji]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl)
