@@ -58,6 +58,7 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. Acewicz, Patryk
 1. Bigda, Piotr
 1. Komorowski, Szymon
+1. Kurnyta, Przemysław
 1. Smykowski, Adrian
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
@@ -69,7 +70,8 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
-1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin). [brak repo]
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.herokuapp.com/) [Travis: failed]
 
 -->
 
@@ -114,10 +116,9 @@ TODO:
 #### Indywidualiści
 
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/)
-1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.herokuapp.com/)
+1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net) [Gemfile: rspec2, Travis: brak]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
-1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com)
+1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [Gemfile: rspec2, 1 model, Travis: 30 testów]
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl)
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com)
 1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/)
