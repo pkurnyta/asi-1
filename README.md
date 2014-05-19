@@ -32,11 +32,9 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
 ### Niezaliczone laboratorium
 
-Następujących studentów proszę o majl:
-
 1. Chraniuk, Mateusz.
 1. Mańkowska, Monika.
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Shelly Cloud.
+1. Sielachowicz, Paweł
 1. Stasiak, Sebastian.
 1. Sulich, Bartłomiej.
 1. Żelazek, Mateusz.
@@ -57,7 +55,6 @@ Aplikacje na egzamin powinny korzystać z innych API.
 
 Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
-1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
@@ -99,6 +96,7 @@ Dane wpisujemy tak:
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
+1. [urnyta, Przemysław](https://github.com/pkurnyta/exam). [brakujący link do wdrożonej aplikacji]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com)
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl)
