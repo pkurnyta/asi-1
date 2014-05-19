@@ -85,7 +85,7 @@ Dane wpisujemy tak:
 
 #### Zespoły
 
-1. [MiDaS Project](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
+1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
@@ -101,8 +101,8 @@ Dane wpisujemy tak:
 1. [None](https://github.com/kaka2991/my_gists). [brakujący link do wdrożonej aplikacji]
 1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com)
-1. [SplendorStylPrzepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net)
-1. [Hawks2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
+1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net)
+1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 #### Indywidualiści
 
