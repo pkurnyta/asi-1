@@ -88,7 +88,6 @@ free hosted continuous integration platform for the open source community.
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/) [1 model]
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com) [1 model, Travis: deprecated]
-
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject). [Games](http://game-reviews.shellyapp.com/)
 1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com)
