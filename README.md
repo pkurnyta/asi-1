@@ -63,7 +63,7 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
 
-<! --
+<!--
 
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
@@ -88,7 +88,7 @@ Dane wpisujemy tak:
 1. [MiDaS Project](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
-1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma).
+1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/)
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
