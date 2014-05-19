@@ -102,7 +102,7 @@ Dane wpisujemy tak:
 
 TODO:
 
-1. [None](https://github.com/kaka2991/my_gists). [brak odsyłacza do wdrożonej aplikacji]
+1. [None](https://github.com/kaka2991/my_gists). [My Gists](http://my-gists.shellyapp.com/)
 1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI).
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
 1. [Disco w rytmie polo](https://github.com/kpawel-29/Disco-w-rytmie-polo).
