@@ -60,9 +60,9 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. Komorowski, Szymon
 1. Korszuń, Kacper
 1. Kurnyta, Przemysław
+1. Nowicki, Jakub
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
-1. Nowicki, Jakub
 
 ----
 
