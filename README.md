@@ -92,7 +92,7 @@ Dane wpisujemy tak:
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/)
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com)
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com)
-1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject).
+1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject). [Games](http://game-reviews.shellyapp.com/)
 1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com)
 1. [P&S – dziewczyny Rubiego](https://github.com/MPaulina/AplikacjaASI).
 1. [JSON](https://github.com/gruchanet/snippeter_on_steroids).
