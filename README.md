@@ -68,7 +68,7 @@ Dane wpisujemy tak:
 #### Zespoły
 
 1. [CŁOP](https://github.com/kipperek/RailsExam).
-1. [MiDaS Project](https://github.com/henio180/EduWords).
+1. [MiDaS Project](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma).
