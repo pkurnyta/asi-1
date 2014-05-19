@@ -56,11 +56,7 @@ Aplikacje na egzamin powinny korzystać z innych API.
 Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
 1. Acewicz, Patryk
-1. Czechowicz, Kacper
 1. Komorowski, Szymon
-1. Ławicki, Partyk
-1. Ossowski, Marcin
-1. Plenis, Jakub
 1. Smykowski, Adrian
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
@@ -70,8 +66,6 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
-
-1. [CŁOP](https://github.com/kipperek/RailsExam).
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 -->
@@ -85,6 +79,7 @@ free hosted continuous integration platform for the open source community.
 
 #### Zespoły
 
+1. [CŁOP](https://github.com/kipperek/RailsExam). [Posts](http://railsexamfinal.shellyapp.com/) [Gemfile: rspec2, 2 osobne modele]
 1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl) [1 model]
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
