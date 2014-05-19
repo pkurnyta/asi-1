@@ -55,7 +55,9 @@ Aplikacje na egzamin powinny korzystać z innych API.
 
 Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
+1. Acewicz, Patryk
 1. Czechowicz, Kacper
+1. Komorowski, Szymon
 1. Ławicki, Partyk
 1. Ossowski, Marcin
 1. Plenis, Jakub
@@ -70,6 +72,7 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 
 1. [CŁOP](https://github.com/kipperek/RailsExam).
+1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 -->
 
@@ -95,7 +98,6 @@ free hosted continuous integration platform for the open source community.
 1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com) [1 model]
 1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
-1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 ----
 
