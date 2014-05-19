@@ -40,7 +40,7 @@ Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 1. Żelazek, Mateusz
 
 
-### Egzamin poprawkowy
+### Egzamin poprawkowy (wrzesień)
 
 Na termin poprawkowy należy **samodzielnie** napisać i uruchomić
 na Shelly Cloud aplikację korzystającą z jednego z API z tej listy
@@ -53,7 +53,7 @@ Szkielet aplikacji korzystającej z *Movie Database API* umieściłem
 na GitHubie – [My Movies](https://github.com/rails4/my_movies).
 Aplikacje na egzamin powinny korzystać z innych API.
 
-Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
+Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 
 1. Acewicz, Patryk
 1. Bigda, Piotr
