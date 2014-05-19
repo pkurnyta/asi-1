@@ -29,9 +29,6 @@ Aplikację należy wdrożyć na **ShellyCloud**.
 (Chyba, że ustaliłem to z szefem zespołu inaczej.)
 Jak to zrobić jest opisane [tutaj](https://github.com/rails4/my_gists).
 
-Ostateczny termin pull requests z linkiem do repozytorium
-z kodem aplikacji – **15.04.2014**.
-
 
 ### Niezaliczone laboratorium
 
