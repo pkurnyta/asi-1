@@ -107,6 +107,7 @@ Dane wpisujemy tak:
 #### Indywidualiści
 
 1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/)
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
 1. [urnyta, Przemysław](https://github.com/pkurnyta/exam). [brakujący link do wdrożonej aplikacji]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
@@ -131,8 +132,6 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 [List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
 (forked from [gist:4952991](https://gist.github.com/afeld/4952991)).
 
-1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1
-
 
 ### Wasze aplikacje (zaliczenie)
 
@@ -143,6 +142,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 1. [Borkowski, Maciej](https://github.com/borek199/my_gists). [D#1](http://mygistsmborkowski.herokuapp.com).
 1. [Buda, Marta](https://github.com/mbuda/reviewIt). [E#3](http://books-review.herokuapp.com).
 1. [Cimoch, Jarosław](https://github.com/jcimoch/mygists). [D#1](http://jcimoch-my-gists.herokuapp.com/).
+1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). C#1.
 1. [Czechowicz, Kacper](https://github.com/kipperek/Rails-FirstApp). [E#1](http://kczechowicz-gists.herokuapp.com).
 1. [Czerwińska, Agnieszka](https://github.com/aczerwinska/my_gists). [D#1](http://gistmys.herokuapp.com/).
 1. [Dargacz, Mateusz](https://github.com/mateuszdargacz/md_gists). [C#1](http://asi-mdargacz.herokuapp.com/).
