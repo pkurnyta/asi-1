@@ -90,10 +90,10 @@ free hosted continuous integration platform for the open source community.
 #### Zespoły
 
 1. [CŁOP](https://github.com/kipperek/RailsExam). [Posts](http://railsexamfinal.shellyapp.com/) [2 osobne modele, Gemfile: rspec2]
-1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
+1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/) [Gemfile: minitest+rspec2, Travis: deprecated]
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl) [1 model]
-1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
-1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
+1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/) [Gemfile: rspec2, Travis: pending]
+1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/) [1 model, Gemfile: minitest+rspec2, Travis: WARNING: db:test:prepare is deprecated]
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/) [1 model]
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com) [1 model, Travis: deprecated]
 1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com) [1 model, Gemfile: activerecord-deprecated_finders, rspec2]
