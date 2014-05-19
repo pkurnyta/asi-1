@@ -94,8 +94,7 @@ free hosted continuous integration platform for the open source community.
 1. [GITpower](https://github.com/mbednarczyk/asiegzamin). [My Gists](http://asiegzamin.shellyapp.com) [Gemfile: rspec2, 1 model]
 1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com) [1 model]
-
-1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS
+1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
 
 ----
