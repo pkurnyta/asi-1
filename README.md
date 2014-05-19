@@ -79,17 +79,17 @@ free hosted continuous integration platform for the open source community.
 
 #### Zespoły
 
-1. [CŁOP](https://github.com/kipperek/RailsExam). [Posts](http://railsexamfinal.shellyapp.com/) [Gemfile: rspec2, 2 osobne modele]
+1. [CŁOP](https://github.com/kipperek/RailsExam). [Posts](http://railsexamfinal.shellyapp.com/) [2 osobne modele, Gemfile: rspec2]
 1. [MiDaS](https://github.com/henio180/EduWords). [EduWords](http://eduwords.project-midas.com/)
 1. [Z3](https://github.com/zajacmp3/RailsExam). [My Static Pages Private](http://www.railsexam.zajacmp3.pl) [1 model]
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject). [Kontakty](http://contestcreator.cloudapp.net/)
 1. [Deoxyribonucleotide](https://github.com/MacMisDev/karczma). [Karczma](http://karczma.shellyapp.com/)
 1. [Dzikie Bociany](https://github.com/Zhukovo/RoR-Egzamin). [My Gists](http://ror-bociany.shellyapp.com/) [1 model]
 1. [Noramino](https://github.com/Bllade/ASI_exam.git). [My Notes](http://notes-exam.shellyapp.com) [1 model, Travis: deprecated]
-1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com) [Gemfile: activerecord-deprecated_finders, rspec2, 1 model]
+1. [RubyOnUnicorns](https://github.com/KLamkiewicz/RubyOnUnicorns). [My Gists](http://rubyonunicorns.shellyapp.com) [1 model, Gemfile: activerecord-deprecated_finders, rspec2]
 1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject). [Games](http://game-reviews.shellyapp.com/)
-1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com) [Gemfile: rspec2, 1 model]
-1. [GITpower](https://github.com/mbednarczyk/asiegzamin). [My Gists](http://asiegzamin.shellyapp.com) [Gemfile: rspec2, 1 model]
+1. [PANDA5](https://github.com/lipek92/PANDA5). [MyGists Pro](http://panda5.shellyapp.com) [1 model, Gemfile: rspec2]
+1. [GITpower](https://github.com/mbednarczyk/asiegzamin). [My Gists](http://asiegzamin.shellyapp.com) [1 model, Gemfile: rspec2]
 1. [1337](https://github.com/YoungCoder/1337/). [Pro Tips](http://skorzenno.pl/)
 1. [MirJan](https://github.com/Pelen/mirjan). [My Books](http://mirjan.shellyapp.com) [1 model]
 1. [Splendor, Styl, Przepych](https://github.com/lukasz978/splendor). [Splendor](http://vps66305.ovh.net) [Travis: WARNINGS]
