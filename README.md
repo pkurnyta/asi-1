@@ -56,6 +56,7 @@ Aplikacje na egzamin powinny korzystać z innych API.
 Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
 1. Acewicz, Patryk
+1. Bigda, Piotr
 1. Komorowski, Szymon
 1. Smykowski, Adrian
 1. Szynkaruk, Kamil
@@ -67,6 +68,8 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. [Szynkaruk, Kamil](https://github.com/ferocis/my_gists), [C+#1](http://zaliczenie.herokuapp.com/)
 1. [Zbierowski, Maciej](https://github.com/Macio1992/myBooks). [B#3](http://my-books-macio1992.herokuapp.com/)
 1. [Hawks 2](https://github.com/szykom/AsiYT). [Hello, Stranger](http://asiyt.shellyapp.com/)
+
+1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 
 -->
 
@@ -110,7 +113,6 @@ TODO:
 
 #### Indywidualiści
 
-1. [Bigda, Piotr](https://github.com/CoJaTutajRobie/egzamin).
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/)
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net)
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.herokuapp.com/)
