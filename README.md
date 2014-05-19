@@ -58,6 +58,7 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. Acewicz, Patryk
 1. Bigda, Piotr
 1. Komorowski, Szymon
+1. Korszuń, Kacper
 1. Kurnyta, Przemysław
 1. Smykowski, Adrian
 1. Szynkaruk, Kamil
@@ -75,6 +76,7 @@ Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.herokuapp.com/) [Travis: failed]
 
 1. [Nowicki, Jakub](https://github.com/jnowicki/rails-myGists). [myGists](http://mygists.kubavic.vdl.pl) [1 model, Gemfile: rspec2, Travis: DEPRECATION WARNINGS]
+1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/) [1 model: +lang?, Gemfile: rspec2, Travis: 7 testów]
 
 -->
 
@@ -122,9 +124,7 @@ TODO:
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net) [Gemfile: rspec2, Travis: brak]
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
-1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com)
-1. [Korszuń, Kacper](https://github.com/gathaspar/RailsApp2). [PiGist](http://pigist.shellyapp.com/)
-
+1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com) [Gemfile: rspec2]
 
 <!--
 
