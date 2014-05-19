@@ -35,11 +35,11 @@ z kodem aplikacji – **15.04.2014**.
 
 ### Niezaliczone laboratorium
 
-Proszę o majl:
+Następujących studentów proszę o majl:
 
 1. Chraniuk, Mateusz.
 1. Mańkowska, Monika.
-1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Heroku.
+1. [Sielachowicz, Paweł](https://github.com/psielachowicz/My_movies) – proszę uruchomić aplikację na Shelly Cloud.
 1. Stasiak, Sebastian.
 1. Sulich, Bartłomiej.
 1. Żelazek, Mateusz.
@@ -47,7 +47,18 @@ Proszę o majl:
 
 ### Egzamin poprawkowy
 
-Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
+Na termin poprawkowy należy **samodzielnie** napisać i uruchomić
+na Shelly Cloud aplikację korzystającą z jednego z API z tej listy
+[List of data APIs that require no server-side auth or private credentials](https://gist.github.com/wbzyl/9989677)
+(mój fork [gist:4952991](https://gist.github.com/afeld/4952991)).
+Do aplikacji należy napisać ok. 40 testów,
+a kod należy podłączyć do systemu [Travis](https://travis-ci.org/).
+
+Szkielet aplikacji korzystającej z *Movie Database API* umieściłem
+na GitHubie – [My Movies](https://github.com/rails4/my_movies).
+Aplikacje na egzamin powinny korzystać z innych API.
+
+Ostateczny termin rozliczenia się z projektu – **22.06.2014**.
 
 1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). C#1
 1. [Smykowski, Adrian](https://github.com/FiskSMK/ASI). [A#4](http://vanfisk.herokuapp.com) **brak na liście z dziekanatu**
@@ -102,7 +113,7 @@ Dane wpisujemy tak:
 
 Przykładowa aplikacja, którą należy uruchomić, dopisać brakujący kod
 i **testy** – [MyMovies](https://github.com/rails4/my_movies)
-(testy controllers + views; wystarczy ok. 100 testów).
+(testy controllers + views; wystarczy ok. 50 testów).
 Aplikacja ta korzysta z *Movie Database API*.
 
 Kod aplikacji należy podłączyć do systemu [Travis](https://travis-ci.org/) –
