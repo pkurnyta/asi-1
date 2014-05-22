@@ -59,7 +59,6 @@ Ostateczny termin rozliczenia się z projektu – **31.08.2014**.
 1. Bigda, Piotr
 1. Komorowski, Szymon
 1. Korszuń, Kacper
-1. Kurnyta, Przemysław
 1. Nowicki, Jakub
 1. Szynkaruk, Kamil
 1. Zbierowski, Maciej
@@ -130,6 +129,7 @@ TODO:
 
 1. [Cywiński, Tymoteusz](https://github.com/tcywinski/my_movies_123). [My Movies](http://my-movies-123.herokuapp.com/) [Shelly Cloud?]
 1. [Kołek, Maciej](https://bitbucket.org/ferus/csgotraders). [CSGO Traders](http://beta.csgotraders.net) [Gemfile: rspec2, Travis: brak]
+1. [Kurnyta, Przemysław](https://github.com/pkurnyta/exam). [My Movies](http://mymovies-pk.shellyapp.com)
 1. [Kwiatkowski, Dominik](https://github.com/Kalumniatoris/railsy). [Agisty](http://agisty.shellyapp.com)
 1. [Lek, Szymon](https://github.com/leyas/rails-app). [Gisty](http://szymon.shellyapp.com) [1 model, Gemfile: rspec2, Travis: 30 testów]
 1. [Szklarska, Milena](https://github.com/madebytechnology/RailsAppExam). [#music #power #fun](http://musicalbums.shellyapp.com) [Gemfile: rspec2]
