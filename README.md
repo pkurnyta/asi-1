@@ -228,6 +228,7 @@ korzystajacą z innego API, na przykład, któregoś z tej listy –
 * [A Guide to Testing Rails Applications](http://edgeguides.rubyonrails.org/testing.html)
 * Every Dog has one Blog.
   [Must Have Gems for Development Machine in Ruby on Rails](http://www.codebeerstartups.com/2013/04/must-have-gems-for-development-machine-in-ruby-on-rails)
+* [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 
 
 ## Kilka uwag
